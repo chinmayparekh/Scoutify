@@ -1,0 +1,4002 @@
+liv
+[[90396    Rúben Dias
+  Name: Name, dtype: object,
+  239818,
+  0.9114298598470151],
+ [88397    Éder Militão
+  Name: Name, dtype: object,
+  240130,
+  0.8737727910481274],
+ [97436    Bremer
+  Name: Name, dtype: object,
+  239580,
+  0.8733958430651978],
+ [91237    B. Godfrey
+  Name: Name, dtype: object,
+  225793,
+  0.8690643184248144],
+ [96279    Murilo
+  Name: Name, dtype: object,
+  240115,
+  0.8682852509677926],
+ [93501    D. Sánchez
+  Name: Name, dtype: object,
+  220793,
+  0.8671827836418502],
+ [95056    N. Milenković
+  Name: Name, dtype: object,
+  238095,
+  0.8666481127480776],
+ [95213    20 D. Lovren
+  Name: Name, dtype: object,
+  195086,
+  0.8643353363051398],
+ [91309    D. Upamecano
+  Name: Name, dtype: object,
+  229558,
+  0.8633590226179739],
+ [89593    E. Álvarez
+  Name: Name, dtype: object,
+  235844,
+  0.8626943282640183],
+ [90763    J. Tarkowski
+  Name: Name, dtype: object,
+  202695,
+  0.8585489187334074],
+ [89216    P. Kimpembe
+  Name: Name, dtype: object,
+  225850,
+  0.857079426744315],
+ [96302    I. Diop
+  Name: Name, dtype: object,
+  231633,
+  0.8563367127685347],
+ [96609    C. Mepham
+  Name: Name, dtype: object,
+  233201,
+  0.8549757881381366],
+ [91623    M. Keane
+  Name: Name, dtype: object,
+  207599,
+  0.8541453090764962],
+ [91373    T. Kehrer
+  Name: Name, dtype: object,
+  226229,
+  0.8538578414354614],
+ [96341    T. Hübers
+  Name: Name, dtype: object,
+  234727,
+  0.8537993327962972],
+ [92695    J. Giménez
+  Name: Name, dtype: object,
+  216460,
+  0.8467980213846311],
+ [94535    S. Botman
+  Name: Name, dtype: object,
+  251809,
+  0.8466945628808874],
+ [93092    W. Anton
+  Name: Name, dtype: object,
+  229476,
+  0.8465431399608816],
+ [95256    Gabriel
+  Name: Name, dtype: object,
+  232580,
+  0.8442821712160871],
+ [88836    Gabriel Paulista
+  Name: Name, dtype: object,
+  201305,
+  0.8410863126401353],
+ [94622    A. Ogbonna
+  Name: Name, dtype: object,
+  183855,
+  0.8368683688835714],
+ [93617    A. Romagnoli
+  Name: Name, dtype: object,
+  210413,
+  0.8366519131356446],
+ [90093    A. Rüdiger
+  Name: Name, dtype: object,
+  205452,
+  0.8356222638980295],
+ [94637    Raúl Albiol
+  Name: Name, dtype: object,
+  157481,
+  0.8344396557029148],
+ [98053    W. Faes
+  Name: Name, dtype: object,
+  235036,
+  0.8335850024475859],
+ [94457    José Fonte
+  Name: Name, dtype: object,
+  171791,
+  0.8329454360346792],
+ [90375    Rúben Vezo
+  Name: Name, dtype: object,
+  215399,
+  0.8327915086832197],
+ [98794    Lyanco
+  Name: Name, dtype: object,
+  230672,
+  0.8326848593029278],
+ [88614    N. Mukiele
+  Name: Name, dtype: object,
+  226166,
+  0.8324085227073106],
+ [94651    R. Koch
+  Name: Name, dtype: object,
+  236532,
+  0.8324083335279223],
+ [98277    20 M. Somma
+  Name: Name, dtype: object,
+  225034,
+  0.8309860598348646],
+ [94578    21 B. Kuscevic
+  Name: Name, dtype: object,
+  225236,
+  0.8303957363127823],
+ [96182    21 V. Jovanović
+  Name: Name, dtype: object,
+  233219,
+  0.8298780711374488],
+ [94910    R. Khedira
+  Name: Name, dtype: object,
+  211999,
+  0.8292579322815402],
+ [88701    19 G. Mercado
+  Name: Name, dtype: object,
+  183892,
+  0.828478848243481],
+ [90733    J. Matip
+  Name: Name, dtype: object,
+  197061,
+  0.8269925560204421],
+ [96926    L. Cooper
+  Name: Name, dtype: object,
+  189456,
+  0.8252763462906074],
+ [97811    Y. Çetin
+  Name: Name, dtype: object,
+  240671,
+  0.8251916912947118],
+ [94161    C. Kabasele
+  Name: Name, dtype: object,
+  190324,
+  0.823558952507753],
+ [96892    18 D. Astori
+  Name: Name, dtype: object,
+  173198,
+  0.8227605789495032],
+ [91461    C. Söyüncü
+  Name: Name, dtype: object,
+  232119,
+  0.8221300643972319],
+ [93661    Lucas Veríssimo
+  Name: Name, dtype: object,
+  235688,
+  0.821574896321671],
+ [98462    Vítor Tormena
+  Name: Name, dtype: object,
+  246098,
+  0.8213059220362161],
+ [93233    Joaquín
+  Name: Name, dtype: object,
+  232132,
+  0.8210197944981427],
+ [97227    Germán
+  Name: Name, dtype: object,
+  198230,
+  0.8208479091844512],
+ [94506    A. Rrahmani
+  Name: Name, dtype: object,
+  244263,
+  0.8206030184130874],
+ [96897    Lluís López
+  Name: Name, dtype: object,
+  234032,
+  0.8205028569632354],
+ [91213    O. Alderete
+  Name: Name, dtype: object,
+  240359,
+  0.8198239173386112],
+ [99250    A. Disasi
+  Name: Name, dtype: object,
+  229942,
+  0.8190703626339366],
+ [95786    Edgar
+  Name: Name, dtype: object,
+  247500,
+  0.8184053272609086],
+ [97108    Paulo Oliveira
+  Name: Name, dtype: object,
+  210679,
+  0.8182870257116972],
+ [98161    C. Awaziem
+  Name: Name, dtype: object,
+  232693,
+  0.8182419286867584],
+ [93319    M. Senesi
+  Name: Name, dtype: object,
+  236506,
+  0.8179741570281848],
+ [94099    Robson Bambu
+  Name: Name, dtype: object,
+  256343,
+  0.817867407038604],
+ [98778    J. Fitzwater
+  Name: Name, dtype: object,
+  231139,
+  0.8171017158596774],
+ [96323    J. Rasmussen
+  Name: Name, dtype: object,
+  234827,
+  0.8161858457804433],
+ [97840    F. Kunze
+  Name: Name, dtype: object,
+  251429,
+  0.8142505765748227],
+ [97590    21 Jemerson
+  Name: Name, dtype: object,
+  215792,
+  0.8141054491757607],
+ [96795    21 M. Leverbe
+  Name: Name, dtype: object,
+  240543,
+  0.8140670021653527],
+ [94262    M. Simakan
+  Name: Name, dtype: object,
+  243854,
+  0.8139723098130773],
+ [91244    20 V. Kompany
+  Name: Name, dtype: object,
+  139720,
+  0.813928868218233],
+ [95277    21 A. Cistana
+  Name: Name, dtype: object,
+  226260,
+  0.8139093370366364],
+ [92169    Z. Feddal
+  Name: Name, dtype: object,
+  205705,
+  0.8133427203161571],
+ [92324    S. Coates
+  Name: Name, dtype: object,
+  197655,
+  0.8126353117664978],
+ [94625    21 Bruno Viana
+  Name: Name, dtype: object,
+  234226,
+  0.8121264437963357],
+ [97432    K. Omeruo
+  Name: Name, dtype: object,
+  207624,
+  0.8109703948196835],
+ [94922    21 Bastos
+  Name: Name, dtype: object,
+  216655,
+  0.8104399628650445],
+ [94420    J. Egan
+  Name: Name, dtype: object,
+  204936,
+  0.8102731878685177],
+ [94238    Y. Mina
+  Name: Name, dtype: object,
+  220523,
+  0.8100680958525907],
+ [88259    Palhinha
+  Name: Name, dtype: object,
+  229391,
+  0.8099578404376632],
+ [93077    Víctor Ruiz
+  Name: Name, dtype: object,
+  193469,
+  0.8083923145001674],
+ [93182    S. Bornauw
+  Name: Name, dtype: object,
+  242663,
+  0.8082232264009502],
+ [95434    E. Pinnock
+  Name: Name, dtype: object,
+  238717,
+  0.8076615358737775],
+ [93437    W. Fofana
+  Name: Name, dtype: object,
+  248695,
+  0.8072180572339565],
+ [98424    D. O'Shea
+  Name: Name, dtype: object,
+  235405,
+  0.806045613568374],
+ [96324    D. Rugani
+  Name: Name, dtype: object,
+  211320,
+  0.8051560270295787],
+ [95492    M. Demiral
+  Name: Name, dtype: object,
+  238160,
+  0.8046534162003167],
+ [95648    A. Izzo
+  Name: Name, dtype: object,
+  216145,
+  0.80429478684845],
+ [88495    Mario Hermoso
+  Name: Name, dtype: object,
+  229668,
+  0.8041625910962061],
+ [93089    M. Kempf
+  Name: Name, dtype: object,
+  210719,
+  0.8039697582672699],
+ [97160    M. Diakhaby
+  Name: Name, dtype: object,
+  230578,
+  0.8027362031787119],
+ [91622    E. Bailly
+  Name: Name, dtype: object,
+  225508,
+  0.8019827409298913],
+ [93404    N. Aguerd
+  Name: Name, dtype: object,
+  244749,
+  0.801639811371936],
+ [91375    Cris Laranjeiros
+  Name: Name, dtype: object,
+  230295,
+  0.8014700481316004],
+ [94690    P. Baysse
+  Name: Name, dtype: object,
+  178031,
+  0.801121636638875],
+ [98797    B. Hübner
+  Name: Name, dtype: object,
+  189433,
+  0.8010951229566938],
+ [100542    M. Erlić
+  Name: Name, dtype: object,
+  244456,
+  0.8010274327470921],
+ [93291    Álvaro
+  Name: Name, dtype: object,
+  202935,
+  0.8003350540189954],
+ [88841    A. Laporte
+  Name: Name, dtype: object,
+  212218,
+  0.800094796510736],
+ [99131    R. Burke
+  Name: Name, dtype: object,
+  221456,
+  0.7993881132955694],
+ [91838    M. Wöber
+  Name: Name, dtype: object,
+  231838,
+  0.7989735133762403],
+ [90495    O. Čelůstka
+  Name: Name, dtype: object,
+  188038,
+  0.7987180750352109],
+ [89999    K. Zouma
+  Name: Name, dtype: object,
+  204311,
+  0.7974069034987686],
+ [90895    21 V. Ćorluka
+  Name: Name, dtype: object,
+  181786,
+  0.7959633164960314],
+ [97156    Y. Abdelhamid
+  Name: Name, dtype: object,
+  206493,
+  0.7954213434388342],
+ [95119    M. Leitsch
+  Name: Name, dtype: object,
+  234843,
+  0.7949155006644641],
+ [94397    D. Ćaleta-Car
+  Name: Name, dtype: object,
+  225263,
+  0.794523961469825],
+ [90045    J. Denayer
+  Name: Name, dtype: object,
+  220182,
+  0.7935320798485302],
+ [98220    A. Hoffmann
+  Name: Name, dtype: object,
+  199779,
+  0.793509377161052],
+ [92358    Rúben Semedo
+  Name: Name, dtype: object,
+  216778,
+  0.7928726859157528],
+ [92673    Pablo
+  Name: Name, dtype: object,
+  201315,
+  0.7928175166578643],
+ [91499    D. Godín
+  Name: Name, dtype: object,
+  182493,
+  0.7927482282239708],
+ [92514    A. Bastoni
+  Name: Name, dtype: object,
+  237383,
+  0.7922299993529368],
+ [92015    N. Elvedi
+  Name: Name, dtype: object,
+  221491,
+  0.7908048002163209],
+ [87883    V. van Dijk
+  Name: Name, dtype: object,
+  203376,
+  0.7905966171268553],
+ [92733    B. Mee
+  Name: Name, dtype: object,
+  189682,
+  0.7899067465166508],
+ [91894    21 Javi Martínez
+  Name: Name, dtype: object,
+  177610,
+  0.7895500345286786],
+ [98781    D. Baumgartner
+  Name: Name, dtype: object,
+  229818,
+  0.7892190572719305],
+ [99423    B. Nuytinck
+  Name: Name, dtype: object,
+  193091,
+  0.7891385730759147],
+ [88494    L. Hernández
+  Name: Name, dtype: object,
+  220814,
+  0.7891028722633836],
+ [97737    A. Pieper
+  Name: Name, dtype: object,
+  246836,
+  0.7890040288720006],
+ [97180    G. Pezzella
+  Name: Name, dtype: object,
+  193601,
+  0.7885863925045211],
+ [96706    Jorge Meré
+  Name: Name, dtype: object,
+  223033,
+  0.7884292822560839],
+ [97487    J. Komar
+  Name: Name, dtype: object,
+  222428,
+  0.7878259670209717],
+ [101813    S. Simič
+  Name: Name, dtype: object,
+  219591,
+  0.7873794684282389],
+ [94527    C. Dawson
+  Name: Name, dtype: object,
+  194806,
+  0.7871220032784413],
+ [95739    M. Kelly
+  Name: Name, dtype: object,
+  184037,
+  0.7869115204749157],
+ [95211    B. Chardonnet
+  Name: Name, dtype: object,
+  215410,
+  0.7865147704564724],
+ [89547    Diego Carlos
+  Name: Name, dtype: object,
+  219693,
+  0.786384964464289],
+ [94714    K. Rekik
+  Name: Name, dtype: object,
+  205193,
+  0.7856893050695161],
+ [97705    S. Cook
+  Name: Name, dtype: object,
+  193011,
+  0.7856752569843417],
+ [96069    F. Uduokhai
+  Name: Name, dtype: object,
+  232144,
+  0.785658027896837],
+ [90121    17 Roger
+  Name: Name, dtype: object,
+  193985,
+  0.7854889896384607],
+ [95206    K. Itakura
+  Name: Name, dtype: object,
+  233152,
+  0.7854506451053748],
+ [98451    M. Kumbulla
+  Name: Name, dtype: object,
+  245426,
+  0.785343215899048],
+ [91259    T. Mings
+  Name: Name, dtype: object,
+  212419,
+  0.78376706613504],
+ [93637    Tiago Djaló
+  Name: Name, dtype: object,
+  252339,
+  0.7833114048537976],
+ [96727    Fábio Cardoso
+  Name: Name, dtype: object,
+  213917,
+  0.782763350667982],
+ [92633    20 B. Höwedes
+  Name: Name, dtype: object,
+  179784,
+  0.7819734808209396],
+ [98076    L. Mühl
+  Name: Name, dtype: object,
+  233960,
+  0.7818715500303673],
+ [99051    M. Robinson
+  Name: Name, dtype: object,
+  237255,
+  0.7816006330943488],
+ [96591    Vieirundinho
+  Name: Name, dtype: object,
+  230379,
+  0.7812958025108651],
+ [99375    D. Hyam
+  Name: Name, dtype: object,
+  221281,
+  0.7809791899621026],
+ [98595    B. Bianchi
+  Name: Name, dtype: object,
+  215015,
+  0.7804770233418525],
+ [97974    G. Guiffrey
+  Name: Name, dtype: object,
+  244851,
+  0.7798656270216442],
+ [95733    D. Heintz
+  Name: Name, dtype: object,
+  206198,
+  0.7798128777067223],
+ [101673    E. Goldaniga
+  Name: Name, dtype: object,
+  223524,
+  0.7796878423232002],
+ [95641    M. Gulde
+  Name: Name, dtype: object,
+  190666,
+  0.7796849257622552],
+ [98187    Samir
+  Name: Name, dtype: object,
+  215651,
+  0.7796637475711377],
+ [99719    S. Agouzoul
+  Name: Name, dtype: object,
+  251751,
+  0.7796100248220241],
+ [90881    S. de Vrij
+  Name: Name, dtype: object,
+  198176,
+  0.7795160631015794],
+ [97481    D. Burn
+  Name: Name, dtype: object,
+  198032,
+  0.7794565900277869],
+ [93118    L. Koscielny
+  Name: Name, dtype: object,
+  165229,
+  0.7787456104218613],
+ [97671    E. Martínez
+  Name: Name, dtype: object,
+  253278,
+  0.7786104082146927],
+ [93996    C. Basham
+  Name: Name, dtype: object,
+  184274,
+  0.7782567664799099],
+ [92544    21 M. Hamdy
+  Name: Name, dtype: object,
+  243533,
+  0.7775354855657567],
+ [93062    F. Tomori
+  Name: Name, dtype: object,
+  232756,
+  0.7772488385601852],
+ [98160    B. Martins Indi
+  Name: Name, dtype: object,
+  199550,
+  0.776898058410693],
+ [98452    21 D. Plechatý
+  Name: Name, dtype: object,
+  247345,
+  0.7766668006717915],
+ [97504    S. Gartenmann
+  Name: Name, dtype: object,
+  229436,
+  0.7765535215422416],
+ [97702    N. Rapp
+  Name: Name, dtype: object,
+  227511,
+  0.7763205809456171],
+ [99323    K. Long
+  Name: Name, dtype: object,
+  194146,
+  0.7761206911660251],
+ [99820    21 Naldo
+  Name: Name, dtype: object,
+  202054,
+  0.7758804397473043],
+ [90558    Nacho Fernández
+  Name: Name, dtype: object,
+  200724,
+  0.7756831534571589],
+ [95117    S. Cáceres
+  Name: Name, dtype: object,
+  253257,
+  0.7753057370557477],
+ [100100    Queirós
+  Name: Name, dtype: object,
+  234576,
+  0.7749613566774939],
+ [95546    J. Castelletto
+  Name: Name, dtype: object,
+  213868,
+  0.7745242509503606],
+ [94295    C. Izquierdoz
+  Name: Name, dtype: object,
+  214766,
+  0.7744745733243965],
+ [88265    D. D'Ambrosio
+  Name: Name, dtype: object,
+  198946,
+  0.7744639860667765],
+ [98869    Diogo Leite
+  Name: Name, dtype: object,
+  234575,
+  0.7744364067463324],
+ [97112    Arribas
+  Name: Name, dtype: object,
+  197890,
+  0.7736876877307394],
+ [97802    R. Oxford
+  Name: Name, dtype: object,
+  225908,
+  0.773345466536423],
+ [91223    21 N. Nkoulou
+  Name: Name, dtype: object,
+  188829,
+  0.7732690133626219],
+ [99999    Ignasi Miquel
+  Name: Name, dtype: object,
+  196935,
+  0.7731481859668452],
+ [91935    C. Goldson
+  Name: Name, dtype: object,
+  199580,
+  0.7727603883011145],
+ [95663    Pedro Mendes
+  Name: Name, dtype: object,
+  200677,
+  0.7726812595674193],
+ [100417    E. Ersoy
+  Name: Name, dtype: object,
+  224489,
+  0.7722178163163322],
+ [93320    T. Jedvaj
+  Name: Name, dtype: object,
+  215930,
+  0.7721957628489303],
+ [95250    M. Friedrich
+  Name: Name, dtype: object,
+  222493,
+  0.7720906353872156],
+ [88541    Juiano Mestres
+  Name: Name, dtype: object,
+  230225,
+  0.7720714923460115],
+ [98775    N. Schlotterbeck
+  Name: Name, dtype: object,
+  247819,
+  0.7720329113650404],
+ [96714    Postigo
+  Name: Name, dtype: object,
+  214639,
+  0.7709301192115592],
+ [97787    20 M. Yanga-Mbiwa
+  Name: Name, dtype: object,
+  181560,
+  0.7706307528049746],
+ [90537    F. Acerbi
+  Name: Name, dtype: object,
+  199845,
+  0.7701716639842386],
+ [96599    A. Çalık
+  Name: Name, dtype: object,
+  223046,
+  0.7697156398819389],
+ [89539    R. Varane
+  Name: Name, dtype: object,
+  201535,
+  0.7692922141250682],
+ [90602    N. Stark
+  Name: Name, dtype: object,
+  212977,
+  0.7691318956415029],
+ [92317    D. Vida
+  Name: Name, dtype: object,
+  199206,
+  0.768932558793867],
+ [93122    S. Ingason
+  Name: Name, dtype: object,
+  221422,
+  0.7678412548023046],
+ [96663    D. Boyata
+  Name: Name, dtype: object,
+  197837,
+  0.7676638063341539],
+ [91384    21 J. Alonso
+  Name: Name, dtype: object,
+  220337,
+  0.7666628781656053],
+ [91788    J. Murillo
+  Name: Name, dtype: object,
+  201377,
+  0.766274708266848],
+ [93070    J. Todibo
+  Name: Name, dtype: object,
+  245388,
+  0.7660834337954592],
+ [99500    C. Cathcart
+  Name: Name, dtype: object,
+  180706,
+  0.7654154163255337],
+ [90215    N. Otamendi
+  Name: Name, dtype: object,
+  192366,
+  0.7653852376253423],
+ [92594    Felipe
+  Name: Name, dtype: object,
+  207863,
+  0.7653819290157762],
+ [92483    L. Cabrera
+  Name: Name, dtype: object,
+  192816,
+  0.7652934681972567],
+ [96726    T. St. Jago
+  Name: Name, dtype: object,
+  253376,
+  0.7651373918889728],
+ [97608    O. Duarte
+  Name: Name, dtype: object,
+  212772,
+  0.765039934630371],
+ [94540    L. López
+  Name: Name, dtype: object,
+  215051,
+  0.7650338233354793],
+ [92874    Tony Abranjes
+  Name: Name, dtype: object,
+  230313,
+  0.7647225804100054],
+ [94333    L. Abram
+  Name: Name, dtype: object,
+  234178,
+  0.7645909469707334],
+ [90188    C. Lenglet
+  Name: Name, dtype: object,
+  220440,
+  0.7643436629537704],
+ [97550    M. Pearson
+  Name: Name, dtype: object,
+  208014,
+  0.7642575221376411],
+ [97926    F. Barba
+  Name: Name, dtype: object,
+  211557,
+  0.7642246571817853],
+ [100355    D. Arslanagic
+  Name: Name, dtype: object,
+  204352,
+  0.7640054504896786],
+ [89988    20 L. Perrin
+  Name: Name, dtype: object,
+  159147,
+  0.7639274180296749],
+ [92566    C. Montes
+  Name: Name, dtype: object,
+  229980,
+  0.7637251705492445],
+ [95866    S. Schonlau
+  Name: Name, dtype: object,
+  214948,
+  0.7633071405297917],
+ [90421    M. Holgate
+  Name: Name, dtype: object,
+  225024,
+  0.7632134517899075],
+ [93459    P. Filipović
+  Name: Name, dtype: object,
+  203026,
+  0.7629122884568766],
+ [99188    J. Simpson
+  Name: Name, dtype: object,
+  230882,
+  0.7628911684191101],
+ [94004    Marcano
+  Name: Name, dtype: object,
+  173521,
+  0.7624738336642428],
+ [90790    K. Théophile-Catherine
+  Name: Name, dtype: object,
+  190868,
+  0.7620821579913022],
+ [98367    G. Cabral
+  Name: Name, dtype: object,
+  165536,
+  0.7620397422763118],
+ [98257    T. Vancooten
+  Name: Name, dtype: object,
+  239989,
+  0.7618456579612547],
+ [91543    E. Konsa
+  Name: Name, dtype: object,
+  227678,
+  0.7616200704497553],
+ [95307    D. Zima
+  Name: Name, dtype: object,
+  255687,
+  0.7612419171733883],
+ [88829    Piqué
+  Name: Name, dtype: object,
+  152729,
+  0.7610551320320799],
+ [91701    C. Mbemba
+  Name: Name, dtype: object,
+  210897,
+  0.7608836128209416],
+ [96399    M. Thiaw
+  Name: Name, dtype: object,
+  256261,
+  0.7607700380427289],
+ [96243    M. Kilman
+  Name: Name, dtype: object,
+  245336,
+  0.7606699113991956],
+ [94956    21 U. Spajić
+  Name: Name, dtype: object,
+  215892,
+  0.760349927328014],
+ [95587    21 Nélson Monte
+  Name: Name, dtype: object,
+  222598,
+  0.7600937752580105],
+ [91119    A. Dragović
+  Name: Name, dtype: object,
+  189060,
+  0.7598551138888936],
+ [100632    N. Katić
+  Name: Name, dtype: object,
+  244204,
+  0.7597476951995527],
+ [95297    R. Holding
+  Name: Name, dtype: object,
+  228295,
+  0.7596289099643484],
+ [95365    L. Balerdi
+  Name: Name, dtype: object,
+  242835,
+  0.7592884842941623],
+ [95782    18 T. Sivok
+  Name: Name, dtype: object,
+  155989,
+  0.7590270429273891],
+ [96801    D. Siovas
+  Name: Name, dtype: object,
+  209669,
+  0.7589273115153367],
+ [94528    19 N. Pejčinović
+  Name: Name, dtype: object,
+  193714,
+  0.75887179795864],
+ [91553    D. Djené
+  Name: Name, dtype: object,
+  217940,
+  0.7588573682656194],
+ [93313    J. Domínguez
+  Name: Name, dtype: object,
+  177273,
+  0.7579867324541383],
+ [89883    20 E. Garay
+  Name: Name, dtype: object,
+  170481,
+  0.7577706495122714],
+ [98418    T. Phete
+  Name: Name, dtype: object,
+  231688,
+  0.7576548750827222],
+ [93318    C. Hérelle
+  Name: Name, dtype: object,
+  208449,
+  0.7576214164879197],
+ [88856    L. Bonucci
+  Name: Name, dtype: object,
+  184344,
+  0.7571536829825929],
+ [95477    K. Koulibaly
+  Name: Name, dtype: object,
+  201024,
+  0.7571393511853737],
+ [97472    B. Mechele
+  Name: Name, dtype: object,
+  212204,
+  0.7569995670019953],
+ [95464    I. Konaté
+  Name: Name, dtype: object,
+  237678,
+  0.7568557555086637],
+ [91024    A. Djiku
+  Name: Name, dtype: object,
+  212219,
+  0.7566378504580872],
+ [97548    Maracás
+  Name: Name, dtype: object,
+  251681,
+  0.756392504700607],
+ [87654    Sergio Ramos
+  Name: Name, dtype: object,
+  155862,
+  0.7561843873619638],
+ [95220    19 T. Mykhalyk
+  Name: Name, dtype: object,
+  179515,
+  0.7557134676252225],
+ [97886    A. Gravillon
+  Name: Name, dtype: object,
+  239550,
+  0.7542596434546034],
+ [97522    Z. Vyner
+  Name: Name, dtype: object,
+  225072,
+  0.7541642784683573],
+ [94682    A. Toșca
+  Name: Name, dtype: object,
+  233512,
+  0.7536249937086675],
+ [97911    J. Lascelles
+  Name: Name, dtype: object,
+  203487,
+  0.7536198764573471],
+ [99413    J. Thorniley
+  Name: Name, dtype: object,
+  229349,
+  0.7532345657088724],
+ [90235    Pepe
+  Name: Name, dtype: object,
+  120533,
+  0.7531300956633866],
+ [98002    F. Garcés
+  Name: Name, dtype: object,
+  241031,
+  0.7526948813691293],
+ [89974    Yeray
+  Name: Name, dtype: object,
+  227950,
+  0.7526711246904418],
+ [97302    20 Tiago Ferreira
+  Name: Name, dtype: object,
+  205845,
+  0.7522001192672765],
+ [95572    A. Ahmedhodžić
+  Name: Name, dtype: object,
+  236524,
+  0.7518188557212669],
+ [94580    M. Benatia
+  Name: Name, dtype: object,
+  177509,
+  0.7517575688386988],
+ [99650    18 Castán
+  Name: Name, dtype: object,
+  172610,
+  0.7504085351590866],
+ [88852    M. de Ligt
+  Name: Name, dtype: object,
+  235243,
+  0.750087870704947],
+ [99582    Artur Jorge
+  Name: Name, dtype: object,
+  236505,
+  0.7500301691402906],
+ [96369    21 M. Zaldivia
+  Name: Name, dtype: object,
+  215053,
+  0.7496538111899655],
+ [97902    Rodri Tarín
+  Name: Name, dtype: object,
+  228828,
+  0.7493216534787733],
+ [94349    R. Lauritsen
+  Name: Name, dtype: object,
+  225948,
+  0.7492999868502302],
+ [90125    S. Vegas
+  Name: Name, dtype: object,
+  219087,
+  0.748812910539158],
+ [94846    Kiko Olivas
+  Name: Name, dtype: object,
+  186684,
+  0.7487481326347645],
+ [95327    A. Mosquera
+  Name: Name, dtype: object,
+  219787,
+  0.7486874346948381],
+ [99255    J. Hoogma
+  Name: Name, dtype: object,
+  231823,
+  0.7480029842578981],
+ [97726    M. Salisu
+  Name: Name, dtype: object,
+  244915,
+  0.747915451000801],
+ [97039    I. Diallo
+  Name: Name, dtype: object,
+  231527,
+  0.7479114900825442],
+ [92888    Dante
+  Name: Name, dtype: object,
+  158625,
+  0.7476717879575335],
+ [89347    J. Boateng
+  Name: Name, dtype: object,
+  183907,
+  0.7471464988330984],
+ [96213    F. Daniliuc
+  Name: Name, dtype: object,
+  252017,
+  0.7470518641065862],
+ [94678    H. Mier
+  Name: Name, dtype: object,
+  199692,
+  0.7467955993980596],
+ [96940    José Amo
+  Name: Name, dtype: object,
+  231320,
+  0.7467664114066888],
+ [96915    K. Günter
+  Name: Name, dtype: object,
+  204451,
+  0.7464669181786062],
+ [99761    N. Phillips
+  Name: Name, dtype: object,
+  240926,
+  0.7458651729611431],
+ [96528    Vivian
+  Name: Name, dtype: object,
+  248550,
+  0.7456587325079007],
+ [89785    G. Trauner
+  Name: Name, dtype: object,
+  199813,
+  0.7452732898057728],
+ [95711    Duirval Diniz
+  Name: Name, dtype: object,
+  230401,
+  0.7451458659172746],
+ [97542    M. Brizuela
+  Name: Name, dtype: object,
+  252168,
+  0.7447607003369257],
+ [99218    L. Dietz
+  Name: Name, dtype: object,
+  241995,
+  0.7446545957275168],
+ [100725    K. Dabila
+  Name: Name, dtype: object,
+  239363,
+  0.7443217939396833],
+ [100820    Bruno Wilson
+  Name: Name, dtype: object,
+  236924,
+  0.7443055025376764],
+ [96776    20 Wallace
+  Name: Name, dtype: object,
+  188370,
+  0.7442884840931088],
+ [93657    W. Boly
+  Name: Name, dtype: object,
+  202750,
+  0.744255759129197],
+ [90500    21 Miranda
+  Name: Name, dtype: object,
+  168609,
+  0.7439007752757638],
+ [97725    M. Guéhi
+  Name: Name, dtype: object,
+  241159,
+  0.7433442562572581],
+ [97861    J. Palomino
+  Name: Name, dtype: object,
+  217196,
+  0.7432459138883142],
+ [97930    21 A. Mariappa
+  Name: Name, dtype: object,
+  172953,
+  0.7427127011581053],
+ [91130    21 M. Musacchio
+  Name: Name, dtype: object,
+  186547,
+  0.7424985031733844],
+ [97488    R. Dickie
+  Name: Name, dtype: object,
+  223159,
+  0.742119506300468],
+ [95238    J. Knight
+  Name: Name, dtype: object,
+  237213,
+  0.7419922289441454],
+ [99084    A. Karazor
+  Name: Name, dtype: object,
+  239096,
+  0.7416250823057383],
+ [93822    M. Friedl
+  Name: Name, dtype: object,
+  237595,
+  0.7415618181212209],
+ [100015    J. Rodon
+  Name: Name, dtype: object,
+  229266,
+  0.7412746072746386],
+ [90031    S. Kjær
+  Name: Name, dtype: object,
+  179645,
+  0.7411708230090784],
+ [98121    P. Mainka
+  Name: Name, dtype: object,
+  216199,
+  0.7396382438564066],
+ [91480    Edgar Ié
+  Name: Name, dtype: object,
+  210520,
+  0.7394820162284059],
+ [92711    S. Gigot
+  Name: Name, dtype: object,
+  219581,
+  0.739403322876346],
+ [93553    M. Niakhaté
+  Name: Name, dtype: object,
+  225859,
+  0.7390931817395979],
+ [89839    E. Tapsoba
+  Name: Name, dtype: object,
+  247263,
+  0.7389858312119717],
+ [96902    O. Kossounou
+  Name: Name, dtype: object,
+  246875,
+  0.738907771808295],
+ [97874    Pablo Santos
+  Name: Name, dtype: object,
+  239872,
+  0.7389045472977068],
+ [97769    J. Jeanvier
+  Name: Name, dtype: object,
+  209840,
+  0.7382051541852165],
+ [96665    H. Eyjólfsson
+  Name: Name, dtype: object,
+  188916,
+  0.7378414556766011],
+ [94510    A. Frías
+  Name: Name, dtype: object,
+  251886,
+  0.737718486084614],
+ [93146    P. Dawidowicz
+  Name: Name, dtype: object,
+  213404,
+  0.7374741255123192],
+ [89233    H. Maguire
+  Name: Name, dtype: object,
+  203263,
+  0.7374083113948501],
+ [95168    L. Sigali
+  Name: Name, dtype: object,
+  215135,
+  0.7373355196842833],
+ [99793    S. Mmaee
+  Name: Name, dtype: object,
+  224211,
+  0.7371835117334858],
+ [92931    O. Toprak
+  Name: Name, dtype: object,
+  185239,
+  0.7371669842310982],
+ [93880    J. Stephens
+  Name: Name, dtype: object,
+  202697,
+  0.7371017752264579],
+ [90425    Josué Chiamulera
+  Name: Name, dtype: object,
+  230375,
+  0.737033355158185],
+ [99062    K. Bonifazi
+  Name: Name, dtype: object,
+  235290,
+  0.7369662150503146],
+ [97442    Ricardo Alves
+  Name: Name, dtype: object,
+  233870,
+  0.7369089939454345],
+ [97048    E. Aiwu
+  Name: Name, dtype: object,
+  243442,
+  0.7363749867514426],
+ [97809    21 Delgado
+  Name: Name, dtype: object,
+  200727,
+  0.7362227071301862],
+ [98685    C. González
+  Name: Name, dtype: object,
+  236020,
+  0.7353765692388798],
+ [97682    21 L. Landre
+  Name: Name, dtype: object,
+  202002,
+  0.7351677781509592],
+ [89061    M. Ginter
+  Name: Name, dtype: object,
+  207862,
+  0.7350527040496382],
+ [89065    D. Hancko
+  Name: Name, dtype: object,
+  247103,
+  0.73504959421544],
+ [99714    H. Marcelin
+  Name: Name, dtype: object,
+  242603,
+  0.7349539203348904],
+ [89937    F. Guilbert
+  Name: Name, dtype: object,
+  227222,
+  0.7347773273971554],
+ [101244    21 T. Elphick
+  Name: Name, dtype: object,
+  180635,
+  0.7343590076470823],
+ [99930    N. Ramírez
+  Name: Name, dtype: object,
+  232189,
+  0.7343547338123309],
+ [88695    21 J. Frendado
+  Name: Name, dtype: object,
+  245299,
+  0.7343303719194499],
+ [101008    B. Wilmot
+  Name: Name, dtype: object,
+  238389,
+  0.7341402280675108],
+ [96305    D. Doekhi
+  Name: Name, dtype: object,
+  232658,
+  0.7337507302927782],
+ [98456    S. Sow
+  Name: Name, dtype: object,
+  259119,
+  0.733368823097826],
+ [97854    S. Kaya
+  Name: Name, dtype: object,
+  167812,
+  0.7332613404470346],
+ [97532    L. Hejda
+  Name: Name, dtype: object,
+  199244,
+  0.7324481304509776],
+ [88358    Thiago Silva
+  Name: Name, dtype: object,
+  164240,
+  0.7319859573986417],
+ [94795    K. Akpoguma
+  Name: Name, dtype: object,
+  211856,
+  0.7319596792252773],
+ [97664    V. Lampropoulos
+  Name: Name, dtype: object,
+  239841,
+  0.7316661338932497],
+ [96381    S. Sinyan
+  Name: Name, dtype: object,
+  233820,
+  0.7315671539020652],
+ [92599    Mingueza
+  Name: Name, dtype: object,
+  259694,
+  0.7315152680331427],
+ [95149    Rafael Cachoira
+  Name: Name, dtype: object,
+  230528,
+  0.7309353498417203],
+ [94130    Marcão
+  Name: Name, dtype: object,
+  234426,
+  0.7309291467673988],
+ [93397    Z. Vanheusden
+  Name: Name, dtype: object,
+  241103,
+  0.7308665227460384],
+ [95977    Kim Min Jae
+  Name: Name, dtype: object,
+  237086,
+  0.7307280065760641],
+ [91991    20 D. Schwaab
+  Name: Name, dtype: object,
+  183426,
+  0.7304083082434768],
+ [90632    San Emeterio
+  Name: Name, dtype: object,
+  223654,
+  0.729751552671742],
+ [97222    Domingos Duarte
+  Name: Name, dtype: object,
+  234835,
+  0.7297483238723182],
+ [89263    C. Kouyaté
+  Name: Name, dtype: object,
+  186801,
+  0.7297183490500155],
+ [101231    20 M. Camporese
+  Name: Name, dtype: object,
+  201914,
+  0.7295549858725784],
+ [98709    J. Abu Hanna
+  Name: Name, dtype: object,
+  233514,
+  0.7292446632196661],
+ [94358    J. Murillo
+  Name: Name, dtype: object,
+  219546,
+  0.7291888877670843],
+ [94374    D. Lenihan
+  Name: Name, dtype: object,
+  211009,
+  0.728945970707447],
+ [100485    Filipe Relvas
+  Name: Name, dtype: object,
+  263897,
+  0.7288773556441805],
+ [97067    H. Türkmen
+  Name: Name, dtype: object,
+  243244,
+  0.7284628762397811],
+ [96442    M. Komenda
+  Name: Name, dtype: object,
+  224093,
+  0.7282715734031853],
+ [92964    C. Smalling
+  Name: Name, dtype: object,
+  189881,
+  0.7280318790893672],
+ [96804    M. Clarke
+  Name: Name, dtype: object,
+  221600,
+  0.7279997833144043],
+ [93915    W. Saliba
+  Name: Name, dtype: object,
+  243715,
+  0.7278744556220489],
+ [91387    J. Teze
+  Name: Name, dtype: object,
+  245211,
+  0.7278035714902109],
+ [95588    J. Gorenc Stanković
+  Name: Name, dtype: object,
+  226129,
+  0.7277884581550502],
+ [99313    Rolando
+  Name: Name, dtype: object,
+  163083,
+  0.7276843405963282],
+ [100546    De La Fuente
+  Name: Name, dtype: object,
+  245290,
+  0.7272796467624204],
+ [99731    S. Mitrović
+  Name: Name, dtype: object,
+  209547,
+  0.727090922606806],
+ [97728    L. Quintana
+  Name: Name, dtype: object,
+  210653,
+  0.7269175115576944],
+ [99289    J. McCart
+  Name: Name, dtype: object,
+  227951,
+  0.7268818206663372],
+ [97492    Kim Kwang Suk
+  Name: Name, dtype: object,
+  184900,
+  0.7266442397073305],
+ [93416    L. Dunk
+  Name: Name, dtype: object,
+  199915,
+  0.7263775004580967],
+ [95699    J. Brooks
+  Name: Name, dtype: object,
+  204082,
+  0.7258826911941312],
+ [96923    P. Jansson
+  Name: Name, dtype: object,
+  194201,
+  0.7255260791109532],
+ [95744    N. Araújo
+  Name: Name, dtype: object,
+  192041,
+  0.7251271751591717],
+ [97292    L. Østigård
+  Name: Name, dtype: object,
+  238516,
+  0.725011460478405],
+ [96885    B. Gimber
+  Name: Name, dtype: object,
+  228883,
+  0.7249685240075576],
+ [95126    A. Walkes
+  Name: Name, dtype: object,
+  232252,
+  0.7247733660976047],
+ [96057    M. Yoshida
+  Name: Name, dtype: object,
+  191648,
+  0.7246968011104745],
+ [88648    N. Aké
+  Name: Name, dtype: object,
+  208920,
+  0.7242784946282251],
+ [92768    A. Long
+  Name: Name, dtype: object,
+  222123,
+  0.7242343192445649],
+ [92785    19 Vasco Fernandes
+  Name: Name, dtype: object,
+  185200,
+  0.7238578077406842],
+ [96363    W. Harding
+  Name: Name, dtype: object,
+  228225,
+  0.7238436850445248],
+ [94452    Jorge Sáenz
+  Name: Name, dtype: object,
+  225106,
+  0.7238262482184945],
+ [98585    S. Svarnas
+  Name: Name, dtype: object,
+  245540,
+  0.7236214120214199],
+ [101464    H. Araki
+  Name: Name, dtype: object,
+  247266,
+  0.7233939048788451],
+ [92919    19 S. Tasci
+  Name: Name, dtype: object,
+  177519,
+  0.7232254039936428],
+ [95965    19 Gil
+  Name: Name, dtype: object,
+  193869,
+  0.7231434900459999],
+ [96175    F. Ceccherini
+  Name: Name, dtype: object,
+  210964,
+  0.7231107248608741],
+ [99273    H. Darling
+  Name: Name, dtype: object,
+  236551,
+  0.7229697353135931],
+ [99008    Frederico Venâncio
+  Name: Name, dtype: object,
+  211107,
+  0.7228903157818218],
+ [97091    20 J. Šimunović
+  Name: Name, dtype: object,
+  231002,
+  0.7228832635836747],
+ [94641    T. Kalas
+  Name: Name, dtype: object,
+  201122,
+  0.7228763006462421],
+ [90078    21 Cauê
+  Name: Name, dtype: object,
+  193693,
+  0.7228162989429573],
+ [98268    L. Magallán
+  Name: Name, dtype: object,
+  211263,
+  0.7227503318079403],
+ [91523    H. Moreno
+  Name: Name, dtype: object,
+  173432,
+  0.7226042601953488],
+ [96007    Fontàs
+  Name: Name, dtype: object,
+  192476,
+  0.722596411832258],
+ [93890    J. Gradit
+  Name: Name, dtype: object,
+  221284,
+  0.722515513019005],
+ [99865    F. Romagna
+  Name: Name, dtype: object,
+  226108,
+  0.7223062635073656],
+ [92555    21 Hilton
+  Name: Name, dtype: object,
+  153260,
+  0.7219057217904046],
+ [96981    T. Nianzou
+  Name: Name, dtype: object,
+  252961,
+  0.7218601539401165],
+ [91243    J. Veltman
+  Name: Name, dtype: object,
+  208004,
+  0.7217800110687059],
+ [98475    A. Ismajli
+  Name: Name, dtype: object,
+  258782,
+  0.7212945911596632],
+ [97952    D. Abels
+  Name: Name, dtype: object,
+  250805,
+  0.7212183577553062],
+ [99225    C. Humphreys-Grant
+  Name: Name, dtype: object,
+  223963,
+  0.7210396080620975],
+ [99740    A. Ranocchia
+  Name: Name, dtype: object,
+  182168,
+  0.7210235406709307],
+ [91239    E. Sviatchenko
+  Name: Name, dtype: object,
+  199745,
+  0.7209700721653463],
+ [94340    M. Lacroix
+  Name: Name, dtype: object,
+  244067,
+  0.7206450334187412],
+ [92807    V. Nelsson
+  Name: Name, dtype: object,
+  235658,
+  0.7204531414312844],
+ [98514    F. Gattoni
+  Name: Name, dtype: object,
+  241930,
+  0.7201887206928658],
+ [95729    Édundo Oliveira
+  Name: Name, dtype: object,
+  230389,
+  0.7201349966976868],
+ [90293    P. Goltz
+  Name: Name, dtype: object,
+  214763,
+  0.7195024927235156],
+ [89532    J. Guilavogui
+  Name: Name, dtype: object,
+  198118,
+  0.7187764296292286],
+ [93987    Bustinza
+  Name: Name, dtype: object,
+  224869,
+  0.718269011948272],
+ [88377    I. Sangaré
+  Name: Name, dtype: object,
+  235173,
+  0.7182012236710942],
+ [97070    V. Alvarado
+  Name: Name, dtype: object,
+  209758,
+  0.717998405169395],
+ [98299    A. Jones
+  Name: Name, dtype: object,
+  236315,
+  0.7177619920993075],
+ [92256    S. García
+  Name: Name, dtype: object,
+  200278,
+  0.7175395008909452],
+ [96272    21 F. Meza
+  Name: Name, dtype: object,
+  214136,
+  0.7175170305552949],
+ [98234    Juninho
+  Name: Name, dtype: object,
+  231104,
+  0.7174622061780482],
+ [95609    19 Maurício
+  Name: Name, dtype: object,
+  187324,
+  0.7172182426722951],
+ [88165    20 J. Mathieu
+  Name: Name, dtype: object,
+  112316,
+  0.716870409409371],
+ [90354    T. Fosu-Mensah
+  Name: Name, dtype: object,
+  232270,
+  0.7167610097958756],
+ [88013    Marquinhos
+  Name: Name, dtype: object,
+  207865,
+  0.7164648503911889],
+ [96037    P. Struijk
+  Name: Name, dtype: object,
+  239360,
+  0.7160148039550153],
+ [98397    20 T. Heurtaux
+  Name: Name, dtype: object,
+  188654,
+  0.7156476633410266],
+ [101737    Javi Hernández
+  Name: Name, dtype: object,
+  259632,
+  0.7156275346057852],
+ [98102    D. Congré
+  Name: Name, dtype: object,
+  163665,
+  0.7155789085915146],
+ [100514    C. Hountondji
+  Name: Name, dtype: object,
+  219680,
+  0.7151180388681457],
+ [98185    M. Veljković
+  Name: Name, dtype: object,
+  221354,
+  0.7150430267039906],
+ [94676    J. O'Connell
+  Name: Name, dtype: object,
+  212300,
+  0.7149942036032453],
+ [94304    J. Rodríguez
+  Name: Name, dtype: object,
+  244950,
+  0.7148282571714025],
+ [101472    M. Caufriez
+  Name: Name, dtype: object,
+  228983,
+  0.7144111853818349],
+ [99660    Juande
+  Name: Name, dtype: object,
+  255158,
+  0.7141382639728119],
+ [99964    Chumi
+  Name: Name, dtype: object,
+  241810,
+  0.7139065457354486],
+ [98882    T. Baumgartl
+  Name: Name, dtype: object,
+  223641,
+  0.7136974358653271],
+ [95736    M. Helik
+  Name: Name, dtype: object,
+  219293,
+  0.7136932785772936],
+ [98858    20 M. Varnier
+  Name: Name, dtype: object,
+  235863,
+  0.7135329452492951],
+ [92396    A. Tuanzebe
+  Name: Name, dtype: object,
+  231485,
+  0.7132624253981923],
+ [95109    Vallejo
+  Name: Name, dtype: object,
+  225161,
+  0.7130120281726885],
+ [96935    A. Epureanu
+  Name: Name, dtype: object,
+  182133,
+  0.7129573397454441],
+ [93544    S. Deli
+  Name: Name, dtype: object,
+  228236,
+  0.7127310787193704],
+ [92281    J. Gomez
+  Name: Name, dtype: object,
+  225100,
+  0.7124618896852212],
+ [97773    S. Magkeev
+  Name: Name, dtype: object,
+  252235,
+  0.7123140921341462],
+ [96073    19 David García
+  Name: Name, dtype: object,
+  146059,
+  0.7122010432309896],
+ [99299    G. Maripán
+  Name: Name, dtype: object,
+  219145,
+  0.7121592611867723],
+ [90738    Calero
+  Name: Name, dtype: object,
+  240289,
+  0.7121546594224588],
+ [98380    T. Asta-Buruaga
+  Name: Name, dtype: object,
+  214701,
+  0.7119698301858809],
+ [91048    21 S. Bender
+  Name: Name, dtype: object,
+  177458,
+  0.7119519563151924],
+ [95282    L. Caldirola
+  Name: Name, dtype: object,
+  199776,
+  0.711903711450146],
+ [94541    C. Halkett
+  Name: Name, dtype: object,
+  222045,
+  0.7116323113427405],
+ [95400    19 J. Sills
+  Name: Name, dtype: object,
+  215143,
+  0.7114264553403379],
+ [98091    Manu Hernando
+  Name: Name, dtype: object,
+  243155,
+  0.7112204780423219],
+ [97688    L. Jäger
+  Name: Name, dtype: object,
+  223427,
+  0.7106970989560025],
+ [92701    T. Kolodziejczak
+  Name: Name, dtype: object,
+  190034,
+  0.7106382112990586],
+ [101552    N. Gyömbér
+  Name: Name, dtype: object,
+  220061,
+  0.710578479068872],
+ [95375    19 C. M'Bengue
+  Name: Name, dtype: object,
+  183395,
+  0.710527646632856],
+ [100316    O. Kolskogen
+  Name: Name, dtype: object,
+  255445,
+  0.7101718462982849],
+ [97447    20 L. Sané
+  Name: Name, dtype: object,
+  192333,
+  0.7098599497276867],
+ [96008    I. Lichnovsky
+  Name: Name, dtype: object,
+  214408,
+  0.7095386255661601],
+ [100019    M. Andersen
+  Name: Name, dtype: object,
+  228419,
+  0.7094785149208671],
+ [95299    O. Kiomourtzoglou
+  Name: Name, dtype: object,
+  238965,
+  0.7090528800558711],
+ [97128    João Basso
+  Name: Name, dtype: object,
+  236255,
+  0.7088619265439019],
+ [96846    J. Gnagnon
+  Name: Name, dtype: object,
+  231361,
+  0.7087283712417356],
+ [93727    N. Breitenbruch
+  Name: Name, dtype: object,
+  224049,
+  0.7086971952267479],
+ [101239    D. Ballard
+  Name: Name, dtype: object,
+  243908,
+  0.7083441414553551],
+ [94854    Vanderleiton
+  Name: Name, dtype: object,
+  230407,
+  0.7079988774283276],
+ [95527    17 Ricardo Carvalho
+  Name: Name, dtype: object,
+  3622,
+  0.7076747391967501],
+ [90775    J. Foyth
+  Name: Name, dtype: object,
+  237221,
+  0.7071371056965439],
+ [94631    R. Czichos
+  Name: Name, dtype: object,
+  211826,
+  0.7071093749436053],
+ [90180    J. Báez
+  Name: Name, dtype: object,
+  223072,
+  0.7070821681990143],
+ [91261    N. Viergever
+  Name: Name, dtype: object,
+  193440,
+  0.706730685601164],
+ [98485    N. Maraš
+  Name: Name, dtype: object,
+  241070,
+  0.706717296868151],
+ [96519    M. Mitrović
+  Name: Name, dtype: object,
+  237209,
+  0.7065653942878881],
+ [97521    C. Schindler
+  Name: Name, dtype: object,
+  200607,
+  0.7062592443685083],
+ [87895    T. Holeš
+  Name: Name, dtype: object,
+  251116,
+  0.70607968691223],
+ [93628    C. Jullien
+  Name: Name, dtype: object,
+  208615,
+  0.7060467580374019],
+ [95014    J. El Yamiq
+  Name: Name, dtype: object,
+  241775,
+  0.7056521680430248],
+ [95497    S. Nsoki
+  Name: Name, dtype: object,
+  241941,
+  0.7054568578509424],
+ [101297    S. McLoughlin
+  Name: Name, dtype: object,
+  241534,
+  0.705374288712258],
+ [91818    J. Brabec
+  Name: Name, dtype: object,
+  204121,
+  0.7052238399265052],
+ [95779    Mexer
+  Name: Name, dtype: object,
+  196801,
+  0.705218211998584],
+ [98674    E. Roco
+  Name: Name, dtype: object,
+  212225,
+  0.7051913737973826],
+ [97013    B. Engels
+  Name: Name, dtype: object,
+  210828,
+  0.7051908288954385],
+ [99984    J. Greaves
+  Name: Name, dtype: object,
+  248602,
+  0.7047239356346117],
+ [101255    20 G. Angella
+  Name: Name, dtype: object,
+  189288,
+  0.7040058100320625],
+ [99504    N. Dams
+  Name: Name, dtype: object,
+  204333,
+  0.7039526842966307],
+ [98040    J. Tah
+  Name: Name, dtype: object,
+  213331,
+  0.7037899911910533],
+ [90407    M. Sarr
+  Name: Name, dtype: object,
+  235454,
+  0.703771732215716],
+ [100474    L. Väisänen
+  Name: Name, dtype: object,
+  234291,
+  0.7036609468227499],
+ [99515    Etxeita
+  Name: Name, dtype: object,
+  190507,
+  0.7034152389379804],
+ [96951    Dani Calvo
+  Name: Name, dtype: object,
+  219180,
+  0.7034011725522697],
+ [98950    P. Alvarado
+  Name: Name, dtype: object,
+  214993,
+  0.7032172425653621],
+ [97450    M. Fofana
+  Name: Name, dtype: object,
+  235849,
+  0.7030186269619239],
+ [90105    M. Cáceres
+  Name: Name, dtype: object,
+  182495,
+  0.7026809558473347],
+ [99190    C. Lukeba
+  Name: Name, dtype: object,
+  262138,
+  0.702444683027013],
+ [98195    T. Becker
+  Name: Name, dtype: object,
+  254245,
+  0.7024229271173671],
+ [98558    G. Magnani
+  Name: Name, dtype: object,
+  242392,
+  0.7023043275109363],
+ [97714    B. Kouyaté
+  Name: Name, dtype: object,
+  247019,
+  0.7022870864148633],
+ [100361    Martínez
+  Name: Name, dtype: object,
+  234781,
+  0.7019242237150721],
+ [94440    21 I. Opara
+  Name: Name, dtype: object,
+  190558,
+  0.7015938672382498],
+ [98886    S. Holmén
+  Name: Name, dtype: object,
+  209063,
+  0.7015318887745474],
+ [99107    Berrocal
+  Name: Name, dtype: object,
+  240859,
+  0.7012777498069626],
+ [98717    G. Canto
+  Name: Name, dtype: object,
+  227526,
+  0.7010039004297318],
+ [90198    D. Amartey
+  Name: Name, dtype: object,
+  212883,
+  0.7006683771292921],
+ [93090    W. Hoedt
+  Name: Name, dtype: object,
+  216774,
+  0.7006123158491694],
+ [93451    20 S. Francis
+  Name: Name, dtype: object,
+  135883,
+  0.7005870712838907],
+ [101447    D. Cleary
+  Name: Name, dtype: object,
+  233056,
+  0.7004278913038153],
+ [88131    J. Vertonghen
+  Name: Name, dtype: object,
+  172871,
+  0.7003080714834072],
+ [99746    D. Tchamba
+  Name: Name, dtype: object,
+  240728,
+  0.7002184714759478],
+ [91145    21 T. Shiotani
+  Name: Name, dtype: object,
+  232510,
+  0.6998630077858086],
+ [99778    S. Andreou
+  Name: Name, dtype: object,
+  262938,
+  0.6997714530394434],
+ [99827    A. Mawson
+  Name: Name, dtype: object,
+  208534,
+  0.6997665102395714],
+ [91489    Daniel Carriço
+  Name: Name, dtype: object,
+  189156,
+  0.6996080066572377],
+ [90111    R. De Laet
+  Name: Name, dtype: object,
+  175932,
+  0.6995861970131511],
+ [97294    19 Rafa López
+  Name: Name, dtype: object,
+  171067,
+  0.6993509727652395],
+ [92005    K. Ajer
+  Name: Name, dtype: object,
+  224258,
+  0.6993236310693081],
+ [100278    J. Müller
+  Name: Name, dtype: object,
+  234381,
+  0.6992765943832775],
+ [100063    M. Vitík
+  Name: Name, dtype: object,
+  259748,
+  0.6992758209983928],
+ [90861    R. Rojas
+  Name: Name, dtype: object,
+  246914,
+  0.6989717472266688],
+ [98246    19 Felipe
+  Name: Name, dtype: object,
+  184820,
+  0.6988042104202243],
+ [96529    Francés
+  Name: Name, dtype: object,
+  254310,
+  0.6987487651684378],
+ [97927    Marcos Mauro
+  Name: Name, dtype: object,
+  219688,
+  0.6987102128416288],
+ [100951    J. Storey
+  Name: Name, dtype: object,
+  235464,
+  0.698652692233815],
+ [101062    21 César
+  Name: Name, dtype: object,
+  215283,
+  0.6984143604476349],
+ [97387    G. Ferrari
+  Name: Name, dtype: object,
+  245439,
+  0.6983956753805179],
+ [95533    P. Jones
+  Name: Name, dtype: object,
+  194957,
+  0.6982572182556973],
+ [94211    Marlon
+  Name: Name, dtype: object,
+  215703,
+  0.6981752234006798],
+ [95009    Guitián
+  Name: Name, dtype: object,
+  198474,
+  0.6981090790655365],
+ [94799    M. Agu
+  Name: Name, dtype: object,
+  209984,
+  0.6979830013188497],
+ [93492    Raúl
+  Name: Name, dtype: object,
+  221540,
+  0.6978499579927099],
+ [99619    H. Dean
+  Name: Name, dtype: object,
+  191079,
+  0.6978480490062421],
+ [94722    K. Hause
+  Name: Name, dtype: object,
+  210635,
+  0.6977565755715928],
+ [96845    L. Giannetti
+  Name: Name, dtype: object,
+  215147,
+  0.6975589791576675],
+ [97659    Josema
+  Name: Name, dtype: object,
+  236304,
+  0.6973387179999351],
+ [100617    J. Pask
+  Name: Name, dtype: object,
+  230942,
+  0.6972699758843486],
+ [101291    19 J. O'Shea
+  Name: Name, dtype: object,
+  3484,
+  0.6970472008867136],
+ [93872    S. Diomande
+  Name: Name, dtype: object,
+  257204,
+  0.6968887100083866],
+ [95423    O. Kabak
+  Name: Name, dtype: object,
+  239890,
+  0.6965459156381507],
+ [98780    M. Lovato
+  Name: Name, dtype: object,
+  258946,
+  0.6963269959144524],
+ [90290    Rafael Tolói
+  Name: Name, dtype: object,
+  187598,
+  0.6963217999769801],
+ [101006    C. McCarthy
+  Name: Name, dtype: object,
+  229771,
+  0.6962945599087871],
+ [91439    C. Romero
+  Name: Name, dtype: object,
+  232488,
+  0.6962725152442197],
+ [89888    J. Gouweleeuw
+  Name: Name, dtype: object,
+  202201,
+  0.6955447648441956],
+ [90281    L. Krejčí
+  Name: Name, dtype: object,
+  252064,
+  0.694338850051742],
+ [98763    D. Fry
+  Name: Name, dtype: object,
+  229682,
+  0.6943133058468913],
+ [97384    M. Rose
+  Name: Name, dtype: object,
+  212487,
+  0.6942899331960475],
+ [100839    A. Rogel
+  Name: Name, dtype: object,
+  252074,
+  0.6942074615569169],
+ [99314    R. Pirrello
+  Name: Name, dtype: object,
+  230676,
+  0.6941146529690675],
+ [98960    D. Roßbach
+  Name: Name, dtype: object,
+  224250,
+  0.6940401580985831],
+ [97780    21 F. Sørensen
+  Name: Name, dtype: object,
+  201342,
+  0.693821117794277],
+ [94289    J. Panzo
+  Name: Name, dtype: object,
+  252001,
+  0.6937390896566265],
+ [96475    Juan Jesus
+  Name: Name, dtype: object,
+  200752,
+  0.6935903123953703],
+ [95438    R. Araujo
+  Name: Name, dtype: object,
+  253163,
+  0.6934455059612018],
+ [98328    21 M. Bagnack
+  Name: Name, dtype: object,
+  210956,
+  0.6933292255076661],
+ [91202    G. Chiellini
+  Name: Name, dtype: object,
+  138956,
+  0.693178060795967],
+ [98249    K. Djidji
+  Name: Name, dtype: object,
+  203884,
+  0.693073111024978],
+ [99884    M. Diaby
+  Name: Name, dtype: object,
+  248831,
+  0.6929032407521333],
+ [90102    L. Tousart
+  Name: Name, dtype: object,
+  227234,
+  0.6923434336578971],
+ [95166    C. Mavinga
+  Name: Name, dtype: object,
+  193278,
+  0.6922419206742737],
+ [91813    P. Martinez
+  Name: Name, dtype: object,
+  223284,
+  0.6922004031240773],
+ [88988    A. Mandi
+  Name: Name, dtype: object,
+  201143,
+  0.6921375407334879],
+ [100947    Jorge Fernandes
+  Name: Name, dtype: object,
+  242359,
+  0.6919315920050455],
+ [94100    Kwon Kyung Won
+  Name: Name, dtype: object,
+  212778,
+  0.6918445050063718],
+ [94388    C. Clark
+  Name: Name, dtype: object,
+  183129,
+  0.6915319515588743],
+ [97613    V. Ghiță
+  Name: Name, dtype: object,
+  248105,
+  0.6914635141679701],
+ [98639    21 E. Velázquez
+  Name: Name, dtype: object,
+  225299,
+  0.6913122102524949],
+ [99645    P. Ziereis
+  Name: Name, dtype: object,
+  209196,
+  0.69114324354762],
+ [97531    B. Diakité
+  Name: Name, dtype: object,
+  246565,
+  0.69112700137692],
+ [91169    19 D. Tarasov
+  Name: Name, dtype: object,
+  187659,
+  0.6907379747764172],
+ [87902    Melvin Parrela
+  Name: Name, dtype: object,
+  230251,
+  0.6906843626095219],
+ [94814    Luiz Felipe
+  Name: Name, dtype: object,
+  236355,
+  0.6905753678239929],
+ [98975    G. Henriksson
+  Name: Name, dtype: object,
+  245722,
+  0.6903238886877252],
+ [100189    21 S. Perić
+  Name: Name, dtype: object,
+  244496,
+  0.6902593789470624],
+ [100055    L. Stergiou
+  Name: Name, dtype: object,
+  247360,
+  0.690065231150018],
+ [89985    K. Amian
+  Name: Name, dtype: object,
+  231235,
+  0.6896045547735628],
+ [95900    J. Duverne
+  Name: Name, dtype: object,
+  229705,
+  0.6893973182109006],
+ [92584    J. Tanganga
+  Name: Name, dtype: object,
+  236600,
+  0.6893569415830314],
+ [99189    21 Ewerton
+  Name: Name, dtype: object,
+  205194,
+  0.6889808135392331],
+ [93369    J. Robinson
+  Name: Name, dtype: object,
+  199027,
+  0.688789151770202],
+ [94548    Hong Jeong Ho
+  Name: Name, dtype: object,
+  200588,
+  0.6885059785019693],
+ [101938    A. Nagalo
+  Name: Name, dtype: object,
+  261422,
+  0.6884765701791876],
+ [98620    B. Galloway
+  Name: Name, dtype: object,
+  209852,
+  0.6882312248418715],
+ [95585    U. Hünemeier
+  Name: Name, dtype: object,
+  157703,
+  0.6878998144273837],
+ [94558    David García
+  Name: Name, dtype: object,
+  225341,
+  0.6877252869890165],
+ [98504    M. Pongračić
+  Name: Name, dtype: object,
+  238370,
+  0.687699007063115],
+ [98174    17 B. Martin
+  Name: Name, dtype: object,
+  172050,
+  0.6875719380297117],
+ [95582    D. Da Silva
+  Name: Name, dtype: object,
+  179789,
+  0.6874373387032344],
+ [97826    G. Rea
+  Name: Name, dtype: object,
+  215570,
+  0.6872990828987414],
+ [98716    A. Krivotsyuk
+  Name: Name, dtype: object,
+  263034,
+  0.6871202326815287],
+ [96325    Vincente Dourado
+  Name: Name, dtype: object,
+  230285,
+  0.6871036001149345],
+ [93504    Nuno Reis
+  Name: Name, dtype: object,
+  197062,
+  0.6868590814195114],
+ [92488    Bigas
+  Name: Name, dtype: object,
+  206222,
+  0.6867911909161637],
+ [88999    L. Martínez Quarta
+  Name: Name, dtype: object,
+  228708,
+  0.6867750051733642],
+ [94274    S. Luperto
+  Name: Name, dtype: object,
+  220534,
+  0.6866806814759078],
+ [100525    L. Perrin
+  Name: Name, dtype: object,
+  243449,
+  0.6864680709682661],
+ [88220    R. Bensebaini
+  Name: Name, dtype: object,
+  224196,
+  0.6863207272284959],
+ [95754    Pol García
+  Name: Name, dtype: object,
+  211323,
+  0.6862700499257238],
+ [98196    20 M. Capuano
+  Name: Name, dtype: object,
+  201529,
+  0.6860979455599011],
+ [101076    Rodrigo Ely
+  Name: Name, dtype: object,
+  202445,
+  0.6859003969741911],
+ [95957    S. Kryvtsov
+  Name: Name, dtype: object,
+  206414,
+  0.6858562440853058],
+ [102315    J. Olowu
+  Name: Name, dtype: object,
+  241864,
+  0.6856926586148573],
+ [87860    W. Ndidi
+  Name: Name, dtype: object,
+  226790,
+  0.6856802392551832],
+ [98069    G. Aguirre
+  Name: Name, dtype: object,
+  232316,
+  0.6856237715542144],
+ [98522    P. Jaeckel
+  Name: Name, dtype: object,
+  242958,
+  0.6856046145993503],
+ [92244    F. Lejeune
+  Name: Name, dtype: object,
+  197948,
+  0.6855710580726176],
+ [95236    21 R. Shotton
+  Name: Name, dtype: object,
+  170039,
+  0.6854204159124603],
+ [95367    D. Granli
+  Name: Name, dtype: object,
+  222472,
+  0.6853289662990102],
+ [98163    E. Cabaco
+  Name: Name, dtype: object,
+  236331,
+  0.6852326417576048],
+ [96563    M. van de Ven
+  Name: Name, dtype: object,
+  264453,
+  0.6851355054502158],
+ [98228    D. Romney
+  Name: Name, dtype: object,
+  229879,
+  0.6849968499702634],
+ [101352    S. Kennedy
+  Name: Name, dtype: object,
+  258361,
+  0.6848412896702951],
+ [98524    Iago
+  Name: Name, dtype: object,
+  224537,
+  0.6848327418087197],
+ [100113    N. Dussenne
+  Name: Name, dtype: object,
+  201841,
+  0.6848183033103562],
+ [95559    D. Williams
+  Name: Name, dtype: object,
+  203398,
+  0.6842725059352606],
+ [99915    F. Helander
+  Name: Name, dtype: object,
+  207555,
+  0.684222364471288],
+ [97252    P. Retsos
+  Name: Name, dtype: object,
+  234986,
+  0.6838788373360704],
+ [100065    B. Utvik
+  Name: Name, dtype: object,
+  213864,
+  0.6836955209428321],
+ [94315    S. Griesbeck
+  Name: Name, dtype: object,
+  222553,
+  0.6833161656553843],
+ [99334    J. O'Brien
+  Name: Name, dtype: object,
+  167925,
+  0.6829876929730664],
+ [91525    Sidnei
+  Name: Name, dtype: object,
+  182002,
+  0.6829565703831686],
+ [94377    Gonzalo Verdú
+  Name: Name, dtype: object,
+  243945,
+  0.6828040688968474],
+ [96340    N. Süle
+  Name: Name, dtype: object,
+  212190,
+  0.6827856777999536],
+ [96884    N. Casale
+  Name: Name, dtype: object,
+  239770,
+  0.6826281368602052],
+ [92123    E. Balanta
+  Name: Name, dtype: object,
+  213899,
+  0.682424819705287],
+ [98402    Pablo Marí
+  Name: Name, dtype: object,
+  206654,
+  0.6822923217488713],
+ [100269    F. Andueza
+  Name: Name, dtype: object,
+  258116,
+  0.6817872523059846],
+ [91603    S. Mustafi
+  Name: Name, dtype: object,
+  192227,
+  0.6817757872418073],
+ [100348    E. Muñoz
+  Name: Name, dtype: object,
+  186695,
+  0.6814072308462302],
+ [99548    S. Knežević
+  Name: Name, dtype: object,
+  234817,
+  0.6813468290621534],
+ [97889    I. Cristea
+  Name: Name, dtype: object,
+  248021,
+  0.6811554372236905],
+ [98502    D. Cardoso
+  Name: Name, dtype: object,
+  228205,
+  0.6811427139292907],
+ [96489    Diego González
+  Name: Name, dtype: object,
+  227106,
+  0.6807503258251624],
+ [96116    Laguardia
+  Name: Name, dtype: object,
+  194222,
+  0.6803492114496671],
+ [98361    Óscar Gil
+  Name: Name, dtype: object,
+  216461,
+  0.68025547190661],
+ [96963    Zanka
+  Name: Name, dtype: object,
+  183491,
+  0.680159756274797],
+ [101339    A. Doldán
+  Name: Name, dtype: object,
+  255240,
+  0.6801177175760724],
+ [88373    S. Umtiti
+  Name: Name, dtype: object,
+  205600,
+  0.6799088973187672],
+ [100315    N. Hagglund
+  Name: Name, dtype: object,
+  221680,
+  0.6795962821050541],
+ [96834    B. Omeragic
+  Name: Name, dtype: object,
+  244603,
+  0.6791535654294216],
+ [95622    M. Lode
+  Name: Name, dtype: object,
+  242160,
+  0.6791395127847661],
+ [93668    Sergi Gómez
+  Name: Name, dtype: object,
+  199577,
+  0.6790414747688697],
+ [89504    D. Bronn
+  Name: Name, dtype: object,
+  235565,
+  0.6789929834906382],
+ [94450    21 G. Gigliotti
+  Name: Name, dtype: object,
+  200876,
+  0.6788456350185761],
+ [100067    R. Takao
+  Name: Name, dtype: object,
+  248810,
+  0.6788172755519769],
+ [100651    P. Kapp
+  Name: Name, dtype: object,
+  239820,
+  0.678810982421095],
+ [93749    S. Sané
+  Name: Name, dtype: object,
+  201956,
+  0.6788054928903302],
+ [92203    21 S. Xulu
+  Name: Name, dtype: object,
+  201886,
+  0.6787969765337384],
+ [100264    C. Gogoua
+  Name: Name, dtype: object,
+  253144,
+  0.6787750303988863],
+ [93473    J. Andersen
+  Name: Name, dtype: object,
+  224221,
+  0.6786063034109288],
+ [97056    D. Biraschi
+  Name: Name, dtype: object,
+  213938,
+  0.678429603746377],
+ [95471    B. Valdez
+  Name: Name, dtype: object,
+  228729,
+  0.6781145470875406],
+ [96576    I. Nedelcearu
+  Name: Name, dtype: object,
+  242614,
+  0.6780627201055842],
+ [88198    M. Hummels
+  Name: Name, dtype: object,
+  178603,
+  0.6780324405007905],
+ [97105    L. Moore
+  Name: Name, dtype: object,
+  200758,
+  0.6780091491252045],
+ [99729    A. Seko
+  Name: Name, dtype: object,
+  247264,
+  0.6777350337070566],
+ [97508    J. Vásquez
+  Name: Name, dtype: object,
+  244349,
+  0.6776979645065304],
+ [101218    N. Ueda
+  Name: Name, dtype: object,
+  232870,
+  0.6774144973432845],
+ [99205    C. Brown
+  Name: Name, dtype: object,
+  242541,
+  0.6770654426415641],
+ [92060    17 K. Touré
+  Name: Name, dtype: object,
+  119152,
+  0.676984511277146],
+ [90446    V. Pálsson
+  Name: Name, dtype: object,
+  190640,
+  0.6767756856054002],
+ [89095    J. Stones
+  Name: Name, dtype: object,
+  203574,
+  0.676703579168865],
+ [96160    J. Riedel
+  Name: Name, dtype: object,
+  201815,
+  0.6765394557061755],
+ [97583    D. Zagadou
+  Name: Name, dtype: object,
+  238476,
+  0.6764024600255787],
+ [94491    L. Takács
+  Name: Name, dtype: object,
+  253695,
+  0.6760859855686953],
+ [97551    Marc Valiente
+  Name: Name, dtype: object,
+  188844,
+  0.675947856347608],
+ [99204    19 J. Mullins
+  Name: Name, dtype: object,
+  164854,
+  0.6758713238975251],
+ [99700    S. Decarli
+  Name: Name, dtype: object,
+  213323,
+  0.675848349787143],
+ [89633    R. Saïss
+  Name: Name, dtype: object,
+  208295,
+  0.6753685822120826],
+ [92452    R. Funes Mori
+  Name: Name, dtype: object,
+  199667,
+  0.6753051556443052],
+ [99901    F. Kent
+  Name: Name, dtype: object,
+  220140,
+  0.6752861248243935],
+ [100721    I. Paro
+  Name: Name, dtype: object,
+  240312,
+  0.6751497929647848],
+ [99821    D. O'Shaughnessy
+  Name: Name, dtype: object,
+  221486,
+  0.6750039389206979],
+ [96676    A. Hanche-Olsen
+  Name: Name, dtype: object,
+  228518,
+  0.6749502495374968],
+ [95191    W. Zimmerman
+  Name: Name, dtype: object,
+  212591,
+  0.6746878376598702],
+ [97759    Jiang Guangtai
+  Name: Name, dtype: object,
+  200741,
+  0.6745334229401264],
+ [100089    U. Demirok
+  Name: Name, dtype: object,
+  178600,
+  0.6743990286051356],
+ [90479    21 E. Schetino
+  Name: Name, dtype: object,
+  245309,
+  0.6743984296653283],
+ [87691    T. Delaney
+  Name: Name, dtype: object,
+  193283,
+  0.6741211855739235],
+ [95437    M. Nervo
+  Name: Name, dtype: object,
+  213581,
+  0.673860627146808],
+ [92366    D. Saddiki
+  Name: Name, dtype: object,
+  243733,
+  0.673821515781725],
+ [95504    M. Pazdan
+  Name: Name, dtype: object,
+  185010,
+  0.6736291395301528],
+ [96371    S. Ajayi
+  Name: Name, dtype: object,
+  207952,
+  0.6734539278947684],
+ [96598    19 Miguel Torres
+  Name: Name, dtype: object,
+  178746,
+  0.673367066815735],
+ [99133    N. Röseler
+  Name: Name, dtype: object,
+  205045,
+  0.6728104661001666],
+ [96217    A. Mumin
+  Name: Name, dtype: object,
+  235662,
+  0.6725704141744686],
+ [96666    Fran Vélez
+  Name: Name, dtype: object,
+  199738,
+  0.6725341047432845],
+ [98582    G. Velázquez
+  Name: Name, dtype: object,
+  246696,
+  0.6725079344612356],
+ [97458    21 T. Reginiussen
+  Name: Name, dtype: object,
+  177280,
+  0.6724836847631764],
+ [96082    21 A. Chedjou
+  Name: Name, dtype: object,
+  183284,
+  0.6722667850288336],
+ [101027    T. Siersleben
+  Name: Name, dtype: object,
+  258812,
+  0.6718147929551344],
+ [100443    C. Burgess
+  Name: Name, dtype: object,
+  216744,
+  0.6717994459879685],
+ [93843    Tuta
+  Name: Name, dtype: object,
+  247182,
+  0.6717821810601103],
+ [92338    Kim Young Gwon
+  Name: Name, dtype: object,
+  201528,
+  0.6713894057425946],
+ [97068    A. Pantić
+  Name: Name, dtype: object,
+  216472,
+  0.6712836855660737],
+ [96314    20 L. Jiménez
+  Name: Name, dtype: object,
+  209756,
+  0.6711956368997842],
+ [98521    21 G. Conti
+  Name: Name, dtype: object,
+  221219,
+  0.6711002838263244],
+ [96501    Unai García
+  Name: Name, dtype: object,
+  215569,
+  0.6709839811454289],
+ [90498    David López
+  Name: Name, dtype: object,
+  201505,
+  0.6708381993601102],
+ [93348    F. Meza
+  Name: Name, dtype: object,
+  214986,
+  0.6705331395363772],
+ [92686    19 S. Medojević
+  Name: Name, dtype: object,
+  207523,
+  0.6704096662405744],
+ [94221    G. Kalulu
+  Name: Name, dtype: object,
+  238391,
+  0.6703027406027606],
+ [94381    T. Chalobah
+  Name: Name, dtype: object,
+  230918,
+  0.6697927761978746],
+ [89840    J. Koundé
+  Name: Name, dtype: object,
+  241486,
+  0.6695566336764155],
+ [98376    R. Knoche
+  Name: Name, dtype: object,
+  203030,
+  0.6695018890357765],
+ [93807    B. Schenkeveld
+  Name: Name, dtype: object,
+  198177,
+  0.6694156102860362],
+ [92368    T. Sainsbury
+  Name: Name, dtype: object,
+  199000,
+  0.6692975579744878],
+ [101369    20 M. Compper
+  Name: Name, dtype: object,
+  170231,
+  0.6689851039852477],
+ [100916    D. Gugganig
+  Name: Name, dtype: object,
+  250780,
+  0.6687855044240263],
+ [96773    A. Ferrari
+  Name: Name, dtype: object,
+  219852,
+  0.6686427790674486],
+ [96681    21 F. Dagerstål
+  Name: Name, dtype: object,
+  224838,
+  0.6685871500301519],
+ [100006    G. Lloris
+  Name: Name, dtype: object,
+  222286,
+  0.6684586232117726],
+ [91835    F. Miguel
+  Name: Name, dtype: object,
+  226130,
+  0.6684066925262012],
+ [90423    G. Medel
+  Name: Name, dtype: object,
+  193532,
+  0.6683317225009713],
+ [99549    S. Vergini
+  Name: Name, dtype: object,
+  204050,
+  0.6680096262412915],
+ [98316    J. Nilsson
+  Name: Name, dtype: object,
+  210802,
+  0.6675681704077084],
+ [97616    A. Pérez
+  Name: Name, dtype: object,
+  221312,
+  0.6674869531023685],
+ [98681    Igor Rossi
+  Name: Name, dtype: object,
+  205215,
+  0.6670442937465169],
+ [99802    G. Johnston
+  Name: Name, dtype: object,
+  240912,
+  0.6666620293769896],
+ [93580    N. Cozza
+  Name: Name, dtype: object,
+  239136,
+  0.6664451542850991],
+ [90800    Zainadine
+  Name: Name, dtype: object,
+  217235,
+  0.6664030908943275],
+ [87912    R. Tapia
+  Name: Name, dtype: object,
+  220673,
+  0.6661126022077936],
+ [99998    21 C. Stokes
+  Name: Name, dtype: object,
+  227880,
+  0.6661050153744562],
+ [97723    S. Rosted
+  Name: Name, dtype: object,
+  227362,
+  0.6660807997851367],
+ [93930    L. Balogun
+  Name: Name, dtype: object,
+  188182,
+  0.6660557815386625],
+ [93982    J. Morel
+  Name: Name, dtype: object,
+  139860,
+  0.6658763201953447],
+ [96287    A. Papadopoulos
+  Name: Name, dtype: object,
+  150106,
+  0.6658025321015074],
+ [97677    S. Findlay
+  Name: Name, dtype: object,
+  227945,
+  0.6657264734580178],
+ [97445    D. Iorfa
+  Name: Name, dtype: object,
+  218658,
+  0.6656848909893667],
+ [88644    M. Degenek
+  Name: Name, dtype: object,
+  229585,
+  0.6655093474814293],
+ [100780    R. Savage
+  Name: Name, dtype: object,
+  263551,
+  0.6654286246727054],
+ [94027    Sokratis
+  Name: Name, dtype: object,
+  172879,
+  0.6654145049618605],
+ [95232    F. Lustenberger
+  Name: Name, dtype: object,
+  177019,
+  0.665338296978341],
+ [91458    J. Escobar
+  Name: Name, dtype: object,
+  247881,
+  0.6652719250467001],
+ [99667    A. Miron
+  Name: Name, dtype: object,
+  248002,
+  0.664981254456153],
+ [96426    J. Souttar
+  Name: Name, dtype: object,
+  212516,
+  0.6642894266718615],
+ [96310    A. Dźwigała
+  Name: Name, dtype: object,
+  211362,
+  0.6642571009236039],
+ [100623    M. Peybernès
+  Name: Name, dtype: object,
+  195313,
+  0.6639309670243443],
+ [100403    T. Sanuç
+  Name: Name, dtype: object,
+  242919,
+  0.6639025940141502],
+ [96990    A. Trusty
+  Name: Name, dtype: object,
+  235755,
+  0.6637938758189316],
+ [98309    Y. Kimoto
+  Name: Name, dtype: object,
+  237789,
+  0.6637310499583229],
+ [93955    M. Valjent
+  Name: Name, dtype: object,
+  219585,
+  0.6636984077155851],
+ [94613    M. Mevlja
+  Name: Name, dtype: object,
+  216742,
+  0.6636715786984846],
+ [96345    D. Rosero
+  Name: Name, dtype: object,
+  215067,
+  0.6636058491493806],
+ [96735    G. Jung
+  Name: Name, dtype: object,
+  223751,
+  0.6631704255393496],
+ [100206    T. Watanabe
+  Name: Name, dtype: object,
+  246826,
+  0.6630468172270804],
+ [102310    Aitor Paredes
+  Name: Name, dtype: object,
+  259524,
+  0.6629327865890344],
+ [100667    O. Salomón
+  Name: Name, dtype: object,
+  254228,
+  0.6629212446565084],
+ [93302    José Crespo
+  Name: Name, dtype: object,
+  172685,
+  0.6628581149341685],
+ [95432    B. Badiashile
+  Name: Name, dtype: object,
+  242578,
+  0.6628125355981401],
+ [90666    A. Vallci
+  Name: Name, dtype: object,
+  243661,
+  0.6626798583370682],
+ [99263    S. Welsh
+  Name: Name, dtype: object,
+  255573,
+  0.662666161413103],
+ [98337    A. Ferro
+  Name: Name, dtype: object,
+  253796,
+  0.6624308754095793],
+ [99202    M. Wallace
+  Name: Name, dtype: object,
+  208024,
+  0.6623495761028697],
+ [99425    J. Bager
+  Name: Name, dtype: object,
+  222328,
+  0.6623412356094445],
+ [100456    21 E. Amor
+  Name: Name, dtype: object,
+  226170,
+  0.6620391114521905],
+ [89786    J. Cuffaut
+  Name: Name, dtype: object,
+  199537,
+  0.6619421774240073],
+ [89003    E. Dier
+  Name: Name, dtype: object,
+  202335,
+  0.6619309736330904],
+ [96012    21 Emu Teixeira
+  Name: Name, dtype: object,
+  230301,
+  0.6618280221357323],
+ [98948    M. Hawsawi
+  Name: Name, dtype: object,
+  225060,
+  0.6615805548363464],
+ [90142    A. Scholz
+  Name: Name, dtype: object,
+  212253,
+  0.6610832413523082],
+ [101596    21 Álex Zalaya
+  Name: Name, dtype: object,
+  235224,
+  0.6605601894898223],
+ [91829    O. El Hajjam
+  Name: Name, dtype: object,
+  234514,
+  0.6603487323764848],
+ [98203    A. Calabresi
+  Name: Name, dtype: object,
+  229574,
+  0.6602657762289814],
+ [97803    H. Delcroix
+  Name: Name, dtype: object,
+  237440,
+  0.6600495650035492],
+ [101001    L. Lindsay
+  Name: Name, dtype: object,
+  215638,
+  0.6599515577734716],
+ [91942    P. Wiesinger
+  Name: Name, dtype: object,
+  239090,
+  0.6592694199785545],
+ [98016    T. Cardona
+  Name: Name, dtype: object,
+  229537,
+  0.6588334211478362],
+ [98271    21 F. Balbuena
+  Name: Name, dtype: object,
+  228229,
+  0.6587397276747646],
+ [88768    O. Kúdela
+  Name: Name, dtype: object,
+  180808,
+  0.6587078661041564],
+ [99418    D. Popov
+  Name: Name, dtype: object,
+  245132,
+  0.6585957215229697],
+ [90743    L. Fejsa
+  Name: Name, dtype: object,
+  183376,
+  0.6582621667123452],
+ [100814    19 D. Bonera
+  Name: Name, dtype: object,
+  45595,
+  0.6579798741489613],
+ [95732    O. Haddadi
+  Name: Name, dtype: object,
+  237548,
+  0.6579095087181516],
+ [89398    M. Akanji
+  Name: Name, dtype: object,
+  229237,
+  0.6577548092234512],
+ [92675    Eric García
+  Name: Name, dtype: object,
+  245037,
+  0.657613810718823],
+ [94132    H. Ayala
+  Name: Name, dtype: object,
+  171896,
+  0.6572508666975517],
+ [96683    Catena
+  Name: Name, dtype: object,
+  243976,
+  0.6572121754956911],
+ [97434    A. Sørensen
+  Name: Name, dtype: object,
+  221024,
+  0.6570989452870817],
+ [93147    M. Matvienko
+  Name: Name, dtype: object,
+  229528,
+  0.6569434771942522],
+ [99929    R. Edmonds-Green
+  Name: Name, dtype: object,
+  234039,
+  0.6568009301580225],
+ [94851    S. Salger
+  Name: Name, dtype: object,
+  193097,
+  0.65665314623011],
+ [97754    21 W. Kanon
+  Name: Name, dtype: object,
+  221641,
+  0.6561173435723217],
+ [96280    F. Peluso
+  Name: Name, dtype: object,
+  178418,
+  0.656090069465391],
+ [101520    A. Sangante
+  Name: Name, dtype: object,
+  262237,
+  0.6559753581479856],
+ [92654    20 M. Angeleri
+  Name: Name, dtype: object,
+  162951,
+  0.6559743211641694],
+ [96304    A. Rus
+  Name: Name, dtype: object,
+  248040,
+  0.6559088615413208],
+ [93688    21 F. Diagne
+  Name: Name, dtype: object,
+  194196,
+  0.6558646696840198],
+ [96592    M. Hector
+  Name: Name, dtype: object,
+  200138,
+  0.6556088477063415],
+ [96421    T. Clarke
+  Name: Name, dtype: object,
+  173518,
+  0.655561780423117],
+ [97347    André Amaro
+  Name: Name, dtype: object,
+  260121,
+  0.655478612061719],
+ [101080    21 J. White
+  Name: Name, dtype: object,
+  152505,
+  0.655447474048018],
+ [100300    S. Reese
+  Name: Name, dtype: object,
+  229036,
+  0.6553598401463931],
+ [100586    M. Ødegaard
+  Name: Name, dtype: object,
+  202259,
+  0.6553154120140251],
+ [95929    G. Shoji
+  Name: Name, dtype: object,
+  232869,
+  0.6549979825048431],
+ [100726    Pep Gayà
+  Name: Name, dtype: object,
+  264105,
+  0.65494722554221],
+ [97937    N. De Medina
+  Name: Name, dtype: object,
+  229107,
+  0.654941804607678],
+ [99936    M. Nakkim
+  Name: Name, dtype: object,
+  228091,
+  0.6548958531216637],
+ [99104    R. Keogh
+  Name: Name, dtype: object,
+  163156,
+  0.6548378776415328],
+ [97448    21 A. Granqvist
+  Name: Name, dtype: object,
+  156713,
+  0.6546273001619104],
+ [95074    M. Leitgeb
+  Name: Name, dtype: object,
+  216182,
+  0.6545856257733612],
+ [89311    D. Le Tallec
+  Name: Name, dtype: object,
+  190416,
+  0.6544723897231883],
+ [97408    B. Zech
+  Name: Name, dtype: object,
+  223426,
+  0.6543324804368961],
+ [96458    18 J. O'Connor
+  Name: Name, dtype: object,
+  164417,
+  0.6540932726700847],
+ [100261    L. Montsma
+  Name: Name, dtype: object,
+  257303,
+  0.6540510613178736],
+ [96629    A. Appindangoye
+  Name: Name, dtype: object,
+  218353,
+  0.654014404422614],
+ [97214    18 J. Terry
+  Name: Name, dtype: object,
+  13732,
+  0.6539883976675961],
+ [96569    S. Papagiannopoulos
+  Name: Name, dtype: object,
+  226583,
+  0.6538140817931137],
+ [88253    D. Zakaria
+  Name: Name, dtype: object,
+  229261,
+  0.6537214447728829],
+ [100200    N. Collins
+  Name: Name, dtype: object,
+  248484,
+  0.6536354569973954],
+ [99841    Insua
+  Name: Name, dtype: object,
+  207431,
+  0.6535995293975604],
+ [101073    Z. Laci
+  Name: Name, dtype: object,
+  255939,
+  0.6535128463230582],
+ [96711    I. Diveev
+  Name: Name, dtype: object,
+  245703,
+  0.6534739053143266],
+ [101640    S. Bueno
+  Name: Name, dtype: object,
+  237658,
+  0.6533403118244796],
+ [98552    A. Hack
+  Name: Name, dtype: object,
+  231111,
+  0.6532476634789901],
+ [93513    C. Connolly
+  Name: Name, dtype: object,
+  229605,
+  0.6531933933746501],
+ [88657    T. Alderweireld
+  Name: Name, dtype: object,
+  184087,
+  0.6531378600166442],
+ [101069    Y. Salmier
+  Name: Name, dtype: object,
+  235553,
+  0.653068212931541],
+ [99716    H. Moukoudi
+  Name: Name, dtype: object,
+  228732,
+  0.6530330046033122],
+ [88457    F. Schär
+  Name: Name, dtype: object,
+  210047,
+  0.6529833149649298],
+ [97364    C. Cuesta
+  Name: Name, dtype: object,
+  233841,
+  0.6529825819863584],
+ [100032    Montero
+  Name: Name, dtype: object,
+  244938,
+  0.6526896359225858],
+ [99005    G. Corujo
+  Name: Name, dtype: object,
+  253289,
+  0.6524390225281689],
+ [94720    S. Savić
+  Name: Name, dtype: object,
+  204639,
+  0.6524078059752634],
+ [98699    K. Sidibé
+  Name: Name, dtype: object,
+  246298,
+  0.6523921390657935],
+ [95895    M. Angha
+  Name: Name, dtype: object,
+  202803,
+  0.6519627879151536],
+ [94531    B. Davies
+  Name: Name, dtype: object,
+  213017,
+  0.6519150052118297],
+ [99509    L. Boeder
+  Name: Name, dtype: object,
+  225636,
+  0.6518483986307316],
+ [98596    T. Peyre
+  Name: Name, dtype: object,
+  211089,
+  0.6516918679312047],
+ [100803    C. Matsima
+  Name: Name, dtype: object,
+  258432,
+  0.6516098995301091],
+ [98258    21 L. Koné
+  Name: Name, dtype: object,
+  184082,
+  0.6512340099954232],
+ [101170    K. Glik
+  Name: Name, dtype: object,
+  190547,
+  0.6509968060762139],
+ [91878    21 B. Ivanović
+  Name: Name, dtype: object,
+  178372,
+  0.6509153102557578],
+ [97082    R. Becker
+  Name: Name, dtype: object,
+  229610,
+  0.6508263735128336],
+ [94793    D. Grétarsson
+  Name: Name, dtype: object,
+  226510,
+  0.6508008138201772],
+ [94753    J. Evans
+  Name: Name, dtype: object,
+  169588,
+  0.6506032581977885],
+ [93997    T. Tomiyasu
+  Name: Name, dtype: object,
+  232938,
+  0.6504925287977861],
+ [99121    J. Willis
+  Name: Name, dtype: object,
+  206524,
+  0.6502283351677642],
+ [98784    R. Le Normand
+  Name: Name, dtype: object,
+  233486,
+  0.6502077413882871],
+ [92214    T. Letschert
+  Name: Name, dtype: object,
+  209839,
+  0.6501361880793933],
+ [96006    21 P. Celeban
+  Name: Name, dtype: object,
+  155657,
+  0.6500282495323966],
+ [89591    P. McNair
+  Name: Name, dtype: object,
+  213697,
+  0.6499203426426976],
+ [98089    Unai Bilbao
+  Name: Name, dtype: object,
+  229360,
+  0.6494998672276692],
+ [93684    A. Andrade
+  Name: Name, dtype: object,
+  252873,
+  0.6494461752758891],
+ [99459    E. Nolan
+  Name: Name, dtype: object,
+  169481,
+  0.6493087887763466],
+ [99052    21 S. Väisänen
+  Name: Name, dtype: object,
+  224436,
+  0.6491810921315259],
+ [99124    M. Pennington
+  Name: Name, dtype: object,
+  216791,
+  0.6491515504861142],
+ [102486    M. Oikonomou
+  Name: Name, dtype: object,
+  216523,
+  0.6489553558379326],
+ [99348    A. Vogliacco
+  Name: Name, dtype: object,
+  245566,
+  0.6486589362679874],
+ [96248    S. Aziz
+  Name: Name, dtype: object,
+  189127,
+  0.6485106268313805],
+ [88092    M. Hinteregger
+  Name: Name, dtype: object,
+  201922,
+  0.6484667071306556],
+ [91537    G. Tzavellas
+  Name: Name, dtype: object,
+  199060,
+  0.6483514512000376],
+ [89628    P. Díaz
+  Name: Name, dtype: object,
+  214436,
+  0.6481326035679197],
+ [100115    A. Borkovic
+  Name: Name, dtype: object,
+  235995,
+  0.6477137132126505],
+ [96318    17 A. Tamata
+  Name: Name, dtype: object,
+  202153,
+  0.6476942451096118],
+ [100544    M. Akoto
+  Name: Name, dtype: object,
+  238629,
+  0.6473947087231791],
+ [98589    S. Barreiro
+  Name: Name, dtype: object,
+  214129,
+  0.647341372906285],
+ [99741    D. Batubinsika
+  Name: Name, dtype: object,
+  239814,
+  0.6473163266271593],
+ [94850    A. Hughes
+  Name: Name, dtype: object,
+  214906,
+  0.6472973769711705],
+ [94658    Marcelo
+  Name: Name, dtype: object,
+  180334,
+  0.6472367713199338],
+ [101047    C. Odenthal
+  Name: Name, dtype: object,
+  262474,
+  0.6471207416826933],
+ [99426    C. Kobald
+  Name: Name, dtype: object,
+  244491,
+  0.647101586903543],
+ [99721    S. Bell
+  Name: Name, dtype: object,
+  198352,
+  0.6469917902731945],
+ [96396    Raillo
+  Name: Name, dtype: object,
+  228805,
+  0.6468519153007],
+ [98945    Y. Rak
+  Name: Name, dtype: object,
+  235684,
+  0.6465067851866432],
+ [101768    A. Jackson
+  Name: Name, dtype: object,
+  204219,
+  0.6464108495273742],
+ [100281    Juan Ibiza
+  Name: Name, dtype: object,
+  245159,
+  0.6462240621826323],
+ [90313    L. Fomba
+  Name: Name, dtype: object,
+  236721,
+  0.6461481248230532],
+ [101800    S. Čestić
+  Name: Name, dtype: object,
+  258893,
+  0.646141739280205],
+ [90561    Y. Barbet
+  Name: Name, dtype: object,
+  224189,
+  0.6461275958232203],
+ [97638    J. Tverskov
+  Name: Name, dtype: object,
+  224067,
+  0.6460110781053445],
+ [100505    A. Baptiste
+  Name: Name, dtype: object,
+  140422,
+  0.645933170079244],
+ [94966    21 D. Lischka
+  Name: Name, dtype: object,
+  251181,
+  0.645627977367594],
+ [101275    H. Ekdal
+  Name: Name, dtype: object,
+  252316,
+  0.6455540217757072],
+ [98938    R. Nicolaisen
+  Name: Name, dtype: object,
+  235244,
+  0.6454858519970724],
+ [101625    J. Quinteros
+  Name: Name, dtype: object,
+  255908,
+  0.6452424841936606],
+ [101406    19 M. Andreolli
+  Name: Name, dtype: object,
+  172835,
+  0.645047364009187],
+ [99497    21 S. Jombati
+  Name: Name, dtype: object,
+  204635,
+  0.6447920365604937],
+ [101092    S. Dann
+  Name: Name, dtype: object,
+  157665,
+  0.6447790573461549],
+ [98964    D. Lavalée
+  Name: Name, dtype: object,
+  236712,
+  0.6447380505626578],
+ [100494    D. Ouédraogo
+  Name: Name, dtype: object,
+  256518,
+  0.6446920585745028],
+ [100018    A. Thompson
+  Name: Name, dtype: object,
+  201212,
+  0.6446485796427861],
+ [98786    M. Caldara
+  Name: Name, dtype: object,
+  220477,
+  0.6443374500675937],
+ [97358    R. Pérez
+  Name: Name, dtype: object,
+  214191,
+  0.6443234546898694],
+ [102382    L. Racic
+  Name: Name, dtype: object,
+  245076,
+  0.6442015985765931],
+ [94177    V. Vevatne
+  Name: Name, dtype: object,
+  214650,
+  0.6440196400743339],
+ [99441    N. Maksimović
+  Name: Name, dtype: object,
+  215466,
+  0.643851425598096],
+ [96868    Ferro
+  Name: Name, dtype: object,
+  242236,
+  0.6438319820435604],
+ [100323    C. Zapata
+  Name: Name, dtype: object,
+  177983,
+  0.6436989407167215],
+ [101330    21 E. Francis
+  Name: Name, dtype: object,
+  241711,
+  0.6436408021284821],
+ [98449    D. Sanderson
+  Name: Name, dtype: object,
+  243612,
+  0.6434909210267431],
+ [98979    J. Latibeaudiere
+  Name: Name, dtype: object,
+  233047,
+  0.6434589395347236],
+ [98932    E. Ntim
+  Name: Name, dtype: object,
+  231472,
+  0.6430285185663714],
+ [97964    J. Giraudon
+  Name: Name, dtype: object,
+  208862,
+  0.6430138383188706],
+ [98961    L. Badé
+  Name: Name, dtype: object,
+  255106,
+  0.6429021936706638],
+ [99568    L. Pirola
+  Name: Name, dtype: object,
+  257368,
+  0.6428713279350581],
+ [99404    P. Karlsson
+  Name: Name, dtype: object,
+  176717,
+  0.642565574603782],
+ [100125    J. Dunne
+  Name: Name, dtype: object,
+  235156,
+  0.6425373833473784],
+ [94496    Paulo Vinícius
+  Name: Name, dtype: object,
+  183254,
+  0.6424322586942689],
+ [98288    F. Kalig
+  Name: Name, dtype: object,
+  228508,
+  0.6424162192619305],
+ [97174    P. Hanlon
+  Name: Name, dtype: object,
+  189110,
+  0.6424104815890411],
+ [94710    David Costas
+  Name: Name, dtype: object,
+  219848,
+  0.6420194021973179],
+ [95127    M. te Wierik
+  Name: Name, dtype: object,
+  200425,
+  0.6419341356278656],
+ [97948    21 V. Regini
+  Name: Name, dtype: object,
+  193686,
+  0.6418605467086012],
+ [98833    S. Pavlović
+  Name: Name, dtype: object,
+  254840,
+  0.6418600950636077],
+ [99169    K. Guessoum
+  Name: Name, dtype: object,
+  241506,
+  0.6418234332742321],
+ [99330    C. Salcedo
+  Name: Name, dtype: object,
+  212888,
+  0.6416516091211719],
+ [99864    H. Martínez
+  Name: Name, dtype: object,
+  235665,
+  0.6414904066817559],
+ [101280    H. Heggheim
+  Name: Name, dtype: object,
+  257072,
+  0.6414749399352119],
+ [96138    K. Pedersen
+  Name: Name, dtype: object,
+  234832,
+  0.6414170236667533],
+ [99443    21 V. Antov
+  Name: Name, dtype: object,
+  248199,
+  0.6413480324843432],
+ [95691    P. Jagielka
+  Name: Name, dtype: object,
+  53914,
+  0.6413412135595168],
+ [100933    T. Knipping
+  Name: Name, dtype: object,
+  211723,
+  0.6412318190595065],
+ [96186    S. Beukema
+  Name: Name, dtype: object,
+  262394,
+  0.6412237254302896],
+ [100590    L. Bejger
+  Name: Name, dtype: object,
+  253089,
+  0.6411025054490456],
+ [102359    J. Baptiste
+  Name: Name, dtype: object,
+  261640,
+  0.6410884494088719],
+ [96882    A. Masiello
+  Name: Name, dtype: object,
+  169115,
+  0.6410644343831858],
+ [99503    21 Gégé
+  Name: Name, dtype: object,
+  210466,
+  0.6408408570472127],
+ [98567    J. Boye
+  Name: Name, dtype: object,
+  190870,
+  0.6406380851407734],
+ [98414    21 M. Škrtel
+  Name: Name, dtype: object,
+  166706,
+  0.6405649492313292],
+ [100151    Bubacar Djaló
+  Name: Name, dtype: object,
+  255018,
+  0.640457051121363],
+ [96803    J. Lucumí
+  Name: Name, dtype: object,
+  231207,
+  0.6404329296395062],
+ [98957    A. Poungouras
+  Name: Name, dtype: object,
+  236458,
+  0.6404161896045926],
+ [91707    Kelivelson
+  Name: Name, dtype: object,
+  230452,
+  0.6400012114750874],
+ [93256    T. Kongolo
+  Name: Name, dtype: object,
+  203485,
+  0.6399827007714621],
+ [100003    S. Babić
+  Name: Name, dtype: object,
+  235589,
+  0.639924548737254],
+ [101155    M. Doucouré
+  Name: Name, dtype: object,
+  233728,
+  0.6399081512321749],
+ [96277    H. Rodríguez
+  Name: Name, dtype: object,
+  187298,
+  0.6394811889907894],
+ [98156    C. Makoun
+  Name: Name, dtype: object,
+  254129,
+  0.6393605502383471],
+ [97581    B. Šutalo
+  Name: Name, dtype: object,
+  255891,
+  0.638954827638522],
+ [95520    21 N. Tomović
+  Name: Name, dtype: object,
+  194203,
+  0.6388925105973337],
+ [98291    A. Buongiorno
+  Name: Name, dtype: object,
+  243241,
+  0.6388040251433459],
+ [99286    T. Kacharaba
+  Name: Name, dtype: object,
+  260314,
+  0.6384881428728321],
+ [94234    T. Kádár
+  Name: Name, dtype: object,
+  186648,
+  0.6383748640955691],
+ [100507    Eduardo Quaresma
+  Name: Name, dtype: object,
+  252144,
+  0.6380463464598438],
+ [98487    M. Coronel
+  Name: Name, dtype: object,
+  193602,
+  0.6378542250562117],
+ [96024    21 F. Monteseirín
+  Name: Name, dtype: object,
+  220358,
+  0.6377819758290745],
+ [102196    N. Jenssen
+  Name: Name, dtype: object,
+  243428,
+  0.6370064964243696],
+ [96852    B. Espinosa
+  Name: Name, dtype: object,
+  186521,
+  0.6365506600001317],
+ [100462    21 M. Bürki
+  Name: Name, dtype: object,
+  211438,
+  0.6364890848422197],
+ [95894    B. Blasi
+  Name: Name, dtype: object,
+  231538,
+  0.6362866175275205],
+ [100431    21 C. Yambéré
+  Name: Name, dtype: object,
+  225934,
+  0.6362825306897815],
+ [94312    P. Aguilar
+  Name: Name, dtype: object,
+  182941,
+  0.6358116236897865],
+ [99042    J. Lawrence
+  Name: Name, dtype: object,
+  245768,
+  0.635724413307205],
+ [100243    Gonçalo Silva
+  Name: Name, dtype: object,
+  213203,
+  0.6354899011838056],
+ [91923    A. Matusiwa
+  Name: Name, dtype: object,
+  239356,
+  0.6352384413152941],
+ [94448    L. Kelly
+  Name: Name, dtype: object,
+  231512,
+  0.6352177643454714],
+ [100822    M. Ross
+  Name: Name, dtype: object,
+  245849,
+  0.6350414695652609],
+ [97114    M. Sakho
+  Name: Name, dtype: object,
+  183285,
+  0.6349878276725034],
+ [92163    H. Magnússon
+  Name: Name, dtype: object,
+  208522,
+  0.6347373587769793],
+ [100759    D. Mikić
+  Name: Name, dtype: object,
+  256275,
+  0.6346355390212242],
+ [98888    K. Mavropanos
+  Name: Name, dtype: object,
+  242000,
+  0.6345826594738107],
+ [93735    P. Ciss
+  Name: Name, dtype: object,
+  250858,
+  0.634521429745051],
+ [90971    17 Arbeloa
+  Name: Name, dtype: object,
+  146741,
+  0.634502210981791],
+ [100352    N. Armini
+  Name: Name, dtype: object,
+  248874,
+  0.6344574294991545],
+ [100865    B. Straalman
+  Name: Name, dtype: object,
+  228870,
+  0.634451504609196],
+ [100818    L. Mai
+  Name: Name, dtype: object,
+  243275,
+  0.6341342005831891],
+ [99566    W. Nightingale
+  Name: Name, dtype: object,
+  221538,
+  0.6338950953201864],
+ [97276    A. Franco
+  Name: Name, dtype: object,
+  237604,
+  0.6333773514822169],
+ [100367    R. Williams
+  Name: Name, dtype: object,
+  247601,
+  0.6332835718799874],
+ [98911    S. Walukiewicz
+  Name: Name, dtype: object,
+  243497,
+  0.6332158374602826],
+ [100743    Cacá
+  Name: Name, dtype: object,
+  261069,
+  0.6332019675892157],
+ [96469    M. Fraser
+  Name: Name, dtype: object,
+  211096,
+  0.6331921618610715],
+ [91526    E. Marxen
+  Name: Name, dtype: object,
+  223694,
+  0.6327728443340273],
+ [100114    C. John
+  Name: Name, dtype: object,
+  236009,
+  0.6327500902749017],
+ [98798    21 J. Rhyner
+  Name: Name, dtype: object,
+  229727,
+  0.6326055635329842],
+ [98612    D. Bernard
+  Name: Name, dtype: object,
+  228226,
+  0.6324120148684163],
+ [98265    T. Harwood-Bellis
+  Name: Name, dtype: object,
+  252793,
+  0.6323974040285616],
+ [90900    H. Nordtveit
+  Name: Name, dtype: object,
+  182888,
+  0.6323037119302001],
+ [91731    M. Škriniar
+  Name: Name, dtype: object,
+  232363,
+  0.6321874646892012],
+ [100925    S. Bradley
+  Name: Name, dtype: object,
+  203749,
+  0.632150240188227],
+ [98294    Bressan
+  Name: Name, dtype: object,
+  213332,
+  0.6321138097069099],
+ [101184    J. Daland
+  Name: Name, dtype: object,
+  256459,
+  0.631966974001834],
+ [94837    20 S. Schuppan
+  Name: Name, dtype: object,
+  170592,
+  0.6319369382754899],
+ [92962    F. Calvo
+  Name: Name, dtype: object,
+  213064,
+  0.6318014500036904],
+ [100193    F. Aksoy
+  Name: Name, dtype: object,
+  240908,
+  0.6310580917713182],
+ [99147    21 Jardel
+  Name: Name, dtype: object,
+  168530,
+  0.6308253107289046],
+ [99511    V. Guzmán
+  Name: Name, dtype: object,
+  255218,
+  0.6306589989426948],
+ [98820    A. Abdellaoui
+  Name: Name, dtype: object,
+  243896,
+  0.6304991988971782],
+ [91251    L. Orbán
+  Name: Name, dtype: object,
+  191488,
+  0.6304727018468905],
+ [102493    21 G. Zajkov
+  Name: Name, dtype: object,
+  223568,
+  0.6303388480922076],
+ [95626    21 E. Fryers
+  Name: Name, dtype: object,
+  206489,
+  0.6301644019716047],
+ [91739    J. Bijol
+  Name: Name, dtype: object,
+  244238,
+  0.6298270972380221],
+ [97080    J. Ruiz
+  Name: Name, dtype: object,
+  234814,
+  0.6298037428209546],
+ [98192    M. Sissako
+  Name: Name, dtype: object,
+  255441,
+  0.6297943049810507],
+ [101201    M. Bauer
+  Name: Name, dtype: object,
+  245347,
+  0.6297382056532103],
+ [100119    C. Goode
+  Name: Name, dtype: object,
+  228997,
+  0.6296695316492944],
+ [93438    21 Welinton
+  Name: Name, dtype: object,
+  192091,
+  0.6295604651133493],
+ [93946    M. Le Marchand
+  Name: Name, dtype: object,
+  192725,
+  0.6294667872634387],
+ [102159    E. Mašović
+  Name: Name, dtype: object,
+  238473,
+  0.6292756758075421],
+ [92137    19 A. Raggi
+  Name: Name, dtype: object,
+  163407,
+  0.6291413094396726],
+ [93592    J. Börner
+  Name: Name, dtype: object,
+  194015,
+  0.629117926650106],
+ [101290    E. Haugan
+  Name: Name, dtype: object,
+  223253,
+  0.6291161571652328],
+ [97140    21 I. Lewczuk
+  Name: Name, dtype: object,
+  188762,
+  0.6289308791720034],
+ [91570    Juan Cala
+  Name: Name, dtype: object,
+  186519,
+  0.6287492887447387],
+ [98274    J. Grounds
+  Name: Name, dtype: object,
+  169609,
+  0.6286886570321204],
+ [97923    Rubén
+  Name: Name, dtype: object,
+  262299,
+  0.6286698691015757],
+ [100328    21 J. Kirchhoff
+  Name: Name, dtype: object,
+  190752,
+  0.628425171450349],
+ [99597    F. Torres
+  Name: Name, dtype: object,
+  252053,
+  0.6283888393714726],
+ [101476    V. Sasso
+  Name: Name, dtype: object,
+  188538,
+  0.6283142772317508],
+ [91035    Teixe Gaúcho
+  Name: Name, dtype: object,
+  230322,
+  0.6280156583849694],
+ [100929    Recasens
+  Name: Name, dtype: object,
+  264096,
+  0.6280142981432437],
+ [99536    J. Baldwin
+  Name: Name, dtype: object,
+  205393,
+  0.6277774204840392],
+ [98437    18 N. Johansson
+  Name: Name, dtype: object,
+  44960,
+  0.6277691988806244],
+ [100202    G. Miura
+  Name: Name, dtype: object,
+  237429,
+  0.6276049815121462],
+ [94478    S. Taniguchi
+  Name: Name, dtype: object,
+  233225,
+  0.6275162389283817],
+ [96526    M. Dárdai
+  Name: Name, dtype: object,
+  256780,
+  0.6275112969607474],
+ [94057    Luís Neto
+  Name: Name, dtype: object,
+  204341,
+  0.627304105463256],
+ [100128    J. Laporte
+  Name: Name, dtype: object,
+  228290,
+  0.627192243239482],
+ [102268    N. Hoffmann
+  Name: Name, dtype: object,
+  231379,
+  0.6271384138345854],
+ [91896    J. Fulton
+  Name: Name, dtype: object,
+  221890,
+  0.6271316672020737],
+ [99328    M. Cacutalua
+  Name: Name, dtype: object,
+  220878,
+  0.6271098011883243],
+ [97704    Daniel Ayala
+  Name: Name, dtype: object,
+  194334,
+  0.6270889870165024],
+ [89354    L. Romo
+  Name: Name, dtype: object,
+  243015,
+  0.627034515384932],
+ [98300    B. Wright
+  Name: Name, dtype: object,
+  198810,
+  0.6270063279077874],
+ [97908    N. Šipčić
+  Name: Name, dtype: object,
+  252275,
+  0.6265481483690427],
+ [100927    T. Rogne
+  Name: Name, dtype: object,
+  185316,
+  0.6264757505696182],
+ [102595    N. Ngoy
+  Name: Name, dtype: object,
+  262071,
+  0.6263758724860706],
+ [101276    F. Brillant
+  Name: Name, dtype: object,
+  208521,
+  0.6263409732148815],
+ ...]
