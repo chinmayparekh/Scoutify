@@ -8,8 +8,8 @@ The ever-growing popularity of football has led to an increasing demand for effi
 To build the recommendation system, we collected a comprehensive dataset comprising player attributes, performance statistics, and historical transfer information from various reliable sources. We employed collaborative filtering and machine learning algorithms to extract meaningful patterns and capture player similarities based on their past performances and career trajectories. By leveraging both user-based and item-based collaborative filtering techniques, our system intelligently matches the preferences of clubs with the profiles of players to generate accurate and tailored recommendations.
 
 # Live Demo
-
-**insert colab link here*
+We recommend running the demo first, as it gives a simple UI to play with the parameters of the final model.
+https://drive.google.com/file/d/19TccEUfcG0qiwyFkFtAtbIw7I5JdJo2I/view?usp=sharing
 
 # Dependencies
 
@@ -26,17 +26,17 @@ To build the recommendation system, we collected a comprehensive dataset compris
 
 Dataset : This directory contains the original , official FIFA csv files containing all player information for the years 2017 -2023
 
-Models : This directory contains some of the saved models used for recommendations.
+#Final Models
+PlayerRec_actual.ipynb: Implementation of Approach-4 based on Clustering. This is our final model and is the backend for the demo.
+PlayerRec_extended.ipynb: Implementation of Approach-5 which extends approach-4 using XGBoost and Neural Networks.
 
-preds: 
+#Initial Attempts
+nn.ipynb : This file includes some of our earlier approaches like KNN , Bert and using basic ML models on a basic definition of club philosophy.
 
-rec_extended_data : Contains weights for each postition used in club philosophy. Also contains consolidated club philosophy.
-
-PlayerRec.ipynb :  This file contains the final approaches used by us. This involves a clustering based approach and a an approach that uses XGBoost and neural networks. These 2 approaches use a complex formulation of club philosphy.
-
-nn.ipynb : This file includes some of our earlier approaches like KNN , Bert and using basic ML models on a basic definition of club philosophy. 
-
-df_xx_improvement.csv : These are the modified dataframes that contain the additional columns which show the improvement shown by the player across two consecutive years. 
+#Synthesised Data 
+rec_actual_data: Contains data required to support the PlayerRec_actual.ipynb file. Mainly contains the synthesised Club Philosophy data.
+rec_extended_data : Contains data required to support PlayerRec_extended.ipynb file. Contains the Club_philosophy, player improvement data and trained XGBoost and NN Models.
+df_xx_improvement.csv : These are the modified dataframes that contain the additional columns which show the improvement shown by the player across two consecutive years. These support the nn.ipynb file.
 
 
 
