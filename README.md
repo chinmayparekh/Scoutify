@@ -31,7 +31,8 @@ Google Collab Notebook Link: https://drive.google.com/file/d/19TccEUfcG0qiwyFkFt
 - PlayerRec_extended.ipynb: Implementation of Approach-5 which extends approach-4 using XGBoost and Neural Networks.
 
 ## Initial Attempts
-- nn.ipynb : This file includes some of our earlier approaches like KNN , Bert and using basic ML models on a basic definition of club philosophy.
+- nn.ipynb : This file includes some of our earlier approaches like KNN and using basic ML models on a basic definition of club philosophy.
+- Bert approach: Recommended to run on google collab. https://drive.google.com/file/d/1ov39uAfohqIu2ZGAD0gV1W21nUvLWpzo/view?usp=sharing
 
 ## Synthesised Data 
 - rec_actual_data: Contains data required to support the PlayerRec_actual.ipynb file. Mainly contains the synthesised Club Philosophy data.
