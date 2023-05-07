@@ -1,6 +1,7 @@
 # Scoutify
 
-A project done for the course , Recommendation Systems.
+- A project done for the course , Recommendation Systems.
+- Note: We recommend running code only after reading the report.
 
 # Description 
 
